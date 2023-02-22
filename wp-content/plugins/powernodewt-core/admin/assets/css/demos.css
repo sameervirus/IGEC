@@ -1,0 +1,12 @@
+.pnwt-plugin {display: flex;justify-content: space-between;border-bottom: 1px solid #f2f2f2;line-height: normal;padding: 10px 0;}
+.pnwt-plugin h2 {margin: 0;}
+#pnwt-demo-import .pnwt-popup-content, .pnwt-import-status {margin: 40px 20px;text-align: center;}
+ul.pnwt-import-items {width: auto;display: inline-block;margin: 0 auto;text-align: left;}
+.pnwt-import-status p:before {display: inline-block;font: 400 18px/1 dashicons;vertical-align: bottom;margin-right: 5px;}
+.pnwt-importing:before {content: "";border: 2px solid #e8e8e8;border-radius: 50%;border-top: 2px solid #0080ff;height: 10px;width: 10px;-webkit-animation: spin .8s linear infinite;animation: spin .5s linear infinite;position: absolute;transform: translate(-50%, -50%);z-index: 11;margin-left: -22px;margin-top: 3px;}
+.pnwt-import-status .pnwt-importing:after {display: none;}
+.pnwt-import-status .pnwt-imported:before {content: '\f147';color: #79ba49;}
+.pnwt-demo-import-success {text-align: center;padding: 0 0 30px;}
+.pnwt-demo-import-success a {display: inline-block;font-size: 12px;font-weight: 600;padding-bottom: 3px;border-bottom: 2px solid;margin-top: 6px;text-transform: uppercase;letter-spacing: .6px;text-decoration:none;}
+.pnwt-importing-failed {color: red;}
+.theme-browser .theme .theme-name {box-sizing: content-box;}

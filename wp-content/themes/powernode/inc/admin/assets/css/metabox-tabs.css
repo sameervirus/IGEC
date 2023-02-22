@@ -1,0 +1,37 @@
+.mb-tab-nav {margin-bottom: -1px;}
+.mb-tab-nav li {margin: 0;display: inline-block;}
+.mb-tab-nav .mb-tab-active {border: 1px solid #ccd0d4;border-bottom-color: transparent;border-radius: 3px 3px 0 0;background: #fdfdfd;}
+.mb-tab-nav a {display: block;padding: 8px 12px;line-height: 1;text-decoration: none;}
+.mb-tab-nav a:active, .mb-tab-nav a:focus {outline: none;box-shadow: none;}
+.mb-tab-nav i, .mb-tab-nav img {vertical-align: middle;margin-right: .3em;}
+.mb-tab-nav i {width: 16px;height: 16px;font-size: 16px;}
+.mb-tab-nav img {width: 12px;height: 12px;display: inline-block;}
+.mb-tab-active a {color: #333;}
+.mb-tab-panels {background: #fdfdfd;border: 1px solid #ccd0d4;}
+.mb-tab-panel {padding: 12px;display: none;}
+.mb-tabs-left {margin: -6px -12px -12px;display: flex;}
+.mb-tabs-left .mb-tab-nav {margin: 0 -1px 0 0;border-right: 1px solid #ccd0d4;z-index: 9;}
+.mb-tabs-left .mb-tab-nav li {display: block;min-width: 180px;}
+.mb-tabs-left .mb-tab-nav li:first-child {border-top: none;}
+.mb-tabs-left .mb-tab-nav a {padding: 12px;}
+.mb-tabs-left .mb-tab-active {border-width: 1px 0 1px 0;border-bottom-color: #ccd0d4;box-shadow: 0 1px 0 rgba(0, 0, 0, 0.02), 0 1px 0 rgba(0, 0, 0, 0.02);margin-right: -1px;}
+.mb-tabs-left .mb-tab-panels {flex: 1;border-width: 0 0 0 1px;z-index: 1;}
+.mb-tabs-left .mb-tab-panel {padding: 12px 20px;border: none;}
+@media (max-width: 575px) {
+.mb-tabs {margin: -6px -12px -12px;}
+.mb-tab-nav {margin-top: 0;	margin-bottom: 0;}
+.mb-tab-nav li {display: block;	border-bottom: 1px solid #ccd0d4;}
+.mb-tab-nav a {padding: 12px;}
+.mb-tab-nav .mb-tab-active {background: #eee;	border-width: 0 0 1px 0;}
+.mb-tab-panel {border: none;	background: none;}
+.mb-tabs-box .mb-tab-nav li {background: none;	border-width: 0 0 1px 0;	margin-right: 0;}
+.mb-tabs-box .mb-tab-nav li:hover {background: none;}
+.mb-tabs-box .mb-tab-nav .mb-tab-active {background: #dedede;}
+.mb-tabs-box .mb-tab-nav .mb-tab-active:hover {background: #dedede;}
+.mb-tabs-box .mb-tab-panels {border: none;	background: none;}
+.mb-tabs-left {flex-direction: column;}
+.mb-tabs-left .mb-tab-nav {width: 100%;	border-right: none;}
+.mb-tabs-left .mb-tab-nav li {border-bottom: 1px solid #ccd0d4;}
+.mb-tabs-left .mb-tab-active {box-shadow: none;	background: #eee;	border-width: 0 0 1px 0;	margin-right: 0;}
+.mb-tabs-left .mb-tab-panels {border-left: none;}
+}

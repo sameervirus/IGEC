@@ -1,0 +1,12 @@
+.in-sub-panel #customize-theme-controls .customize-pane-child.current-panel-parent, #customize-theme-controls .customize-pane-child.current-section-parent {transform: translateX(-100%);}
+.wp-picker-container {width: 90%;display: inline-block;}
+.wp-picker-container .wp-color-result.button {height: 32px;border-radius: 4px;width:100%;}
+.wp-picker-container .wp-color-result-text {background: rgba(0,0,0,.2);border-radius: 0 2px 2px 0;border-left: none;color: #fff;display: block;vertical-align: middle;height: 100%;line-height: 32px;padding: 0 6px;text-align: center;}
+ul.devices-list {display: inline-flex;clear: both;width: auto;margin-left: 10px;}
+ul.devices-list > li {display: flex;margin: 0 5px 0 0;}
+ul.devices-list > li button {box-shadow: none;border: none;background: #999;border-radius: 50%;color: #fff;width: 20px;outline: none;height: 20px;}
+ul.devices-list > li button:hover, ul.devices-list > li button.active {background: #007cb2;}
+ul.devices-list > li button:hover{opacity: 0.7;}
+ul.devices-list > li button i {font-size: 0.85em;display: flex;width: auto;cursor: pointer;justify-content: center;align-items: center;}
+ul.devices-list li:not(.desktop) {display: none;}
+.devices-open ul.devices-list li{display: flex;}

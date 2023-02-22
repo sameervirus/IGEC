@@ -1,0 +1,1 @@
+wp.customize.controlConstructor['powernodewt-radio-image'] = wp.customize.powernodewtBaseControl.extend( {} );

@@ -1,0 +1,4325 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Powernodewt Core 1.0.0\n"
+"POT-Creation-Date: 2022-09-29 15:54+0530\n"
+"PO-Revision-Date: 2022-08-01 16:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nc;_x;_ex;_nx;esc_attr__;esc_attr_e;"
+"esc_attr_x;esc_html__;esc_html_e;esc_html_x;__ngettext;__ngettext_noop;"
+"_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/classes/class-demo-import.php:160
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: admin/classes/class-demo-import.php:161
+msgid "Activating"
+msgstr ""
+
+#: admin/classes/class-demo-import.php:162
+msgid "Activated"
+msgstr ""
+
+#: admin/classes/importer/class-revslider-importer.php:30
+msgid "RevSlider class does not exits."
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:83
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:105
+msgid "Site does not support widget"
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:130
+msgid "Widget already exists"
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:203
+msgid "Imported"
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:206
+msgid "Imported to Inactive"
+msgstr ""
+
+#: admin/classes/importer/class-widget-importer.php:212
+#: integrations/meta-box/inc/fields/media.php:35
+msgid "No Title"
+msgstr ""
+
+#: inc/functions.php:57
+msgid "Verticle (default)"
+msgstr ""
+
+#: inc/functions.php:58
+msgid "Horizontal"
+msgstr ""
+
+#: inc/functions.php:70 inc/functions.php:86 inc/functions.php:101
+#: inc/functions.php:119 inc/functions.php:140 inc/functions.php:159
+#: inc/functions.php:173 inc/functions.php:238 inc/functions.php:268
+#: inc/functions.php:303 inc/post-types/layouts.php:59
+#: inc/post-types/portfolio.php:122 inc/widgets/class-widget-blog.php:39
+#: integrations/elementor/widgets/blog.php:56
+#: integrations/elementor/widgets/button.php:336
+#: integrations/elementor/widgets/button.php:367
+#: integrations/elementor/widgets/button.php:422
+#: integrations/elementor/widgets/countdown.php:206
+#: integrations/elementor/widgets/counter.php:325
+#: integrations/elementor/widgets/features-box.php:271
+#: integrations/elementor/widgets/gallery.php:68
+#: integrations/elementor/widgets/icon-list.php:346
+#: integrations/elementor/widgets/image-box.php:50
+#: integrations/elementor/widgets/image-carousel.php:56
+#: integrations/elementor/widgets/image.php:87
+#: integrations/elementor/widgets/portfolio.php:70
+#: integrations/elementor/widgets/pricing.php:407
+#: integrations/elementor/widgets/pricing.php:1499
+#: integrations/elementor/widgets/pricing.php:1513
+#: integrations/elementor/widgets/pricing.php:1603
+#: integrations/elementor/widgets/reviews-carousel.php:152
+#: integrations/elementor/widgets/social-icons.php:184
+#: integrations/elementor/widgets/social-icons.php:225
+#: integrations/elementor/widgets/social-icons.php:280
+#: integrations/elementor/widgets/team-member.php:804
+#: integrations/elementor/widgets/team-member.php:845
+#: integrations/elementor/widgets/team-member.php:900
+#: integrations/elementor/widgets/video.php:101
+msgid "Default"
+msgstr ""
+
+#: inc/functions.php:71 inc/functions.php:102
+#: inc/widgets/class-widget-image-box.php:85
+#: integrations/elementor/widgets/counter.php:239
+#: integrations/elementor/widgets/features-box.php:185
+msgid "Left"
+msgstr ""
+
+#: inc/functions.php:72 inc/functions.php:103
+msgid "Center"
+msgstr ""
+
+#: inc/functions.php:73 inc/functions.php:104
+#: inc/widgets/class-widget-image-box.php:87
+#: integrations/elementor/widgets/counter.php:247
+#: integrations/elementor/widgets/features-box.php:193
+msgid "Right"
+msgstr ""
+
+#: inc/functions.php:74
+msgid "Justified"
+msgstr ""
+
+#: inc/functions.php:87 inc/widgets/class-widget-image-box.php:86
+#: integrations/elementor/widgets/counter.php:243
+#: integrations/elementor/widgets/features-box.php:189
+msgid "Top"
+msgstr ""
+
+#: inc/functions.php:88
+msgid "Middle"
+msgstr ""
+
+#: inc/functions.php:89
+msgid "Bottom"
+msgstr ""
+
+#: inc/functions.php:105
+msgid "Between"
+msgstr ""
+
+#: inc/functions.php:106
+msgid "Around"
+msgstr ""
+
+#: inc/functions.php:120
+msgid "Thin: 100"
+msgstr ""
+
+#: inc/functions.php:121
+msgid "Light: 200"
+msgstr ""
+
+#: inc/functions.php:122
+msgid "Book: 300"
+msgstr ""
+
+#: inc/functions.php:123
+msgid "Normal: 400"
+msgstr ""
+
+#: inc/functions.php:124
+msgid "Medium: 500"
+msgstr ""
+
+#: inc/functions.php:125
+msgid "Semibold: 600"
+msgstr ""
+
+#: inc/functions.php:126
+msgid "Bold: 700"
+msgstr ""
+
+#: inc/functions.php:127
+msgid "Extra Bold: 800"
+msgstr ""
+
+#: inc/functions.php:128
+msgid "Bolder: 900"
+msgstr ""
+
+#: inc/functions.php:141
+msgid "XSmall"
+msgstr ""
+
+#: inc/functions.php:142
+msgid "Small"
+msgstr ""
+
+#: inc/functions.php:143
+msgid "Medium"
+msgstr ""
+
+#: inc/functions.php:144
+msgid "Large"
+msgstr ""
+
+#: inc/functions.php:145
+msgid "XL"
+msgstr ""
+
+#: inc/functions.php:146 inc/functions.php:225 inc/functions.php:256
+#: inc/functions.php:291 inc/functions.php:322 inc/post-types/layouts.php:86
+#: integrations/elementor/widgets/button.php:339
+#: integrations/elementor/widgets/button.php:367
+#: integrations/elementor/widgets/button.php:422
+#: integrations/elementor/widgets/pricing.php:1546
+#: integrations/elementor/widgets/pricing.php:1612
+#: integrations/elementor/widgets/social-icons.php:225
+#: integrations/elementor/widgets/social-icons.php:280
+#: integrations/elementor/widgets/team-member.php:845
+#: integrations/elementor/widgets/team-member.php:900
+msgid "Custom"
+msgstr ""
+
+#: inc/functions.php:160
+msgid "Normal"
+msgstr ""
+
+#: inc/functions.php:161
+msgid "Italic"
+msgstr ""
+
+#: inc/functions.php:174 inc/functions.php:189
+#: integrations/elementor/widgets/gallery.php:147
+#: integrations/meta-box/inc/fields/select.php:92
+msgid "None"
+msgstr ""
+
+#: inc/functions.php:175
+msgid "Capitalize"
+msgstr ""
+
+#: inc/functions.php:176
+msgid "Lowercase"
+msgstr ""
+
+#: inc/functions.php:177
+msgid "Uppercase"
+msgstr ""
+
+#: inc/functions.php:190
+msgid "Fade In"
+msgstr ""
+
+#: inc/functions.php:191
+msgid "Fade In Up"
+msgstr ""
+
+#: inc/functions.php:192
+msgid "Fade In Down"
+msgstr ""
+
+#: inc/functions.php:193
+msgid "Fade In Left"
+msgstr ""
+
+#: inc/functions.php:194
+msgid "Fade In Right"
+msgstr ""
+
+#: inc/functions.php:195
+msgid "Slide In Up"
+msgstr ""
+
+#: inc/functions.php:196
+msgid "Slide In Down"
+msgstr ""
+
+#: inc/functions.php:197
+msgid "Slide In Left"
+msgstr ""
+
+#: inc/functions.php:198
+msgid "Slide In Right"
+msgstr ""
+
+#: inc/functions.php:211 inc/functions.php:551
+msgid "Facebook"
+msgstr ""
+
+#: inc/functions.php:212 inc/functions.php:556
+msgid "Twitter"
+msgstr ""
+
+#: inc/functions.php:213 inc/functions.php:624
+msgid "Instagram"
+msgstr ""
+
+#: inc/functions.php:214 inc/functions.php:601
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/functions.php:215
+msgid "Linkedin"
+msgstr ""
+
+#: inc/functions.php:216 inc/functions.php:576
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions.php:217 inc/functions.php:639
+msgid "Youtube"
+msgstr ""
+
+#: inc/functions.php:218 inc/functions.php:607
+msgid "Telegram"
+msgstr ""
+
+#: inc/functions.php:219 inc/functions.php:613
+msgid "Email"
+msgstr ""
+
+#: inc/functions.php:220 inc/functions.php:644
+msgid "Github"
+msgstr ""
+
+#: inc/functions.php:221
+msgid "Google Plus"
+msgstr ""
+
+#: inc/functions.php:222
+msgid "Dribbble"
+msgstr ""
+
+#: inc/functions.php:223
+msgid "Behance"
+msgstr ""
+
+#: inc/functions.php:224
+msgid "VK"
+msgstr ""
+
+#: inc/functions.php:239 inc/functions.php:269 inc/functions.php:334
+#: inc/functions.php:377 integrations/elementor/widgets/pricing.php:1514
+#: integrations/elementor/widgets/pricing.php:1604
+msgid "Theme"
+msgstr ""
+
+#: inc/functions.php:240 inc/functions.php:270 inc/functions.php:336
+#: inc/functions.php:379 integrations/elementor/widgets/pricing.php:1516
+#: integrations/elementor/widgets/pricing.php:1606
+msgid "Grey"
+msgstr ""
+
+#: inc/functions.php:241
+msgid "Grey - 1"
+msgstr ""
+
+#: inc/functions.php:242 inc/functions.php:272 inc/functions.php:338
+#: inc/functions.php:381 integrations/elementor/widgets/pricing.php:1518
+#: integrations/elementor/widgets/pricing.php:1608
+msgid "White"
+msgstr ""
+
+#: inc/functions.php:243 inc/functions.php:271
+msgid "Lightgrey"
+msgstr ""
+
+#: inc/functions.php:244 inc/functions.php:275 inc/functions.php:342
+#: integrations/elementor/widgets/pricing.php:1522
+msgid "Azure"
+msgstr ""
+
+#: inc/functions.php:245 inc/functions.php:277 inc/functions.php:344
+#: integrations/elementor/widgets/pricing.php:1524
+msgid "Brown"
+msgstr ""
+
+#: inc/functions.php:246
+msgid "Deepgrey"
+msgstr ""
+
+#: inc/functions.php:247 inc/functions.php:279 inc/functions.php:346
+#: integrations/elementor/widgets/pricing.php:1526
+msgid "Gold"
+msgstr ""
+
+#: inc/functions.php:248 inc/functions.php:281 inc/functions.php:348
+#: integrations/elementor/widgets/pricing.php:1528
+msgid "Navy"
+msgstr ""
+
+#: inc/functions.php:249 inc/functions.php:289 inc/functions.php:352
+#: integrations/elementor/widgets/pricing.php:1532
+msgid "Rose"
+msgstr ""
+
+#: inc/functions.php:250 inc/functions.php:282 inc/functions.php:354
+#: integrations/elementor/widgets/pricing.php:1534
+msgid "Salmon"
+msgstr ""
+
+#: inc/functions.php:251 inc/functions.php:284 inc/functions.php:356
+#: integrations/elementor/widgets/pricing.php:1536
+msgid "Silk"
+msgstr ""
+
+#: inc/functions.php:252
+msgid "Skyblue"
+msgstr ""
+
+#: inc/functions.php:253 inc/functions.php:288
+msgid "Steelblue"
+msgstr ""
+
+#: inc/functions.php:254 inc/functions.php:350
+#: integrations/elementor/widgets/pricing.php:1530
+msgid "Purple"
+msgstr ""
+
+#: inc/functions.php:255 inc/functions.php:290 inc/functions.php:364
+#: integrations/elementor/widgets/pricing.php:1544
+msgid "Yellow"
+msgstr ""
+
+#: inc/functions.php:273
+#: integrations/elementor/widgets/reviews-carousel.php:154
+msgid "Dark"
+msgstr ""
+
+#: inc/functions.php:274
+msgid "Deepdark"
+msgstr ""
+
+#: inc/functions.php:276
+msgid "Lightazure"
+msgstr ""
+
+#: inc/functions.php:278
+msgid "Denim"
+msgstr ""
+
+#: inc/functions.php:280
+msgid "Lightgreen"
+msgstr ""
+
+#: inc/functions.php:283
+msgid "Sapphire"
+msgstr ""
+
+#: inc/functions.php:285
+msgid "DarkBlue"
+msgstr ""
+
+#: inc/functions.php:286 inc/functions.php:358
+#: integrations/elementor/widgets/pricing.php:1538
+msgid "SkyBlue"
+msgstr ""
+
+#: inc/functions.php:287 inc/functions.php:360
+#: integrations/elementor/widgets/pricing.php:1540
+msgid "Steel"
+msgstr ""
+
+#: inc/functions.php:304
+msgid "Icon-15"
+msgstr ""
+
+#: inc/functions.php:305
+msgid "Icon-20"
+msgstr ""
+
+#: inc/functions.php:306
+msgid "Icon-25"
+msgstr ""
+
+#: inc/functions.php:307
+msgid "Icon-30"
+msgstr ""
+
+#: inc/functions.php:308
+msgid "Icon-35"
+msgstr ""
+
+#: inc/functions.php:309
+msgid "Icon-40"
+msgstr ""
+
+#: inc/functions.php:310
+msgid "Icon-45"
+msgstr ""
+
+#: inc/functions.php:311
+msgid "Icon-50"
+msgstr ""
+
+#: inc/functions.php:312
+msgid "Icon-55"
+msgstr ""
+
+#: inc/functions.php:313
+msgid "Icon-60"
+msgstr ""
+
+#: inc/functions.php:314
+msgid "Icon-65"
+msgstr ""
+
+#: inc/functions.php:315
+msgid "Icon-70"
+msgstr ""
+
+#: inc/functions.php:316
+msgid "Icon-75"
+msgstr ""
+
+#: inc/functions.php:317
+msgid "Icon-80"
+msgstr ""
+
+#: inc/functions.php:318
+msgid "Icon-85"
+msgstr ""
+
+#: inc/functions.php:319
+msgid "Icon-90"
+msgstr ""
+
+#: inc/functions.php:320
+msgid "Icon-95"
+msgstr ""
+
+#: inc/functions.php:321
+msgid "Icon-100"
+msgstr ""
+
+#: inc/functions.php:335 inc/functions.php:378
+#: integrations/elementor/widgets/pricing.php:1515
+#: integrations/elementor/widgets/pricing.php:1605
+msgid "Transparent Theme"
+msgstr ""
+
+#: inc/functions.php:337 inc/functions.php:380
+#: integrations/elementor/widgets/pricing.php:1517
+#: integrations/elementor/widgets/pricing.php:1607
+msgid "Transparent Grey"
+msgstr ""
+
+#: inc/functions.php:339 inc/functions.php:382
+#: integrations/elementor/widgets/pricing.php:1519
+#: integrations/elementor/widgets/pricing.php:1609
+msgid "Transparent White"
+msgstr ""
+
+#: inc/functions.php:340 inc/functions.php:383
+#: integrations/elementor/widgets/pricing.php:1520
+#: integrations/elementor/widgets/pricing.php:1610
+msgid "Black"
+msgstr ""
+
+#: inc/functions.php:341 inc/functions.php:384
+#: integrations/elementor/widgets/pricing.php:1521
+#: integrations/elementor/widgets/pricing.php:1611
+msgid "Transparent Black"
+msgstr ""
+
+#: inc/functions.php:343 integrations/elementor/widgets/pricing.php:1523
+msgid "Transparent Azure"
+msgstr ""
+
+#: inc/functions.php:345 integrations/elementor/widgets/pricing.php:1525
+msgid "Transparent Brown"
+msgstr ""
+
+#: inc/functions.php:347 integrations/elementor/widgets/pricing.php:1527
+msgid "Transparent Gold"
+msgstr ""
+
+#: inc/functions.php:349 integrations/elementor/widgets/pricing.php:1529
+msgid "Transparent Navy"
+msgstr ""
+
+#: inc/functions.php:351 integrations/elementor/widgets/pricing.php:1531
+msgid "Transparent Purple"
+msgstr ""
+
+#: inc/functions.php:353 integrations/elementor/widgets/pricing.php:1533
+msgid "Transparent Rose"
+msgstr ""
+
+#: inc/functions.php:355 integrations/elementor/widgets/pricing.php:1535
+msgid "Transparent Salmon"
+msgstr ""
+
+#: inc/functions.php:357 integrations/elementor/widgets/pricing.php:1537
+msgid "Transparent Silk"
+msgstr ""
+
+#: inc/functions.php:359 integrations/elementor/widgets/pricing.php:1539
+msgid "Transparent SkyBlue"
+msgstr ""
+
+#: inc/functions.php:361 integrations/elementor/widgets/pricing.php:1541
+msgid "Transparent Steel"
+msgstr ""
+
+#: inc/functions.php:362 integrations/elementor/widgets/pricing.php:1542
+msgid "SteelBlue"
+msgstr ""
+
+#: inc/functions.php:363 integrations/elementor/widgets/pricing.php:1543
+msgid "Transparent SteelBlue"
+msgstr ""
+
+#: inc/functions.php:365 integrations/elementor/widgets/pricing.php:1545
+msgid "Transparent Yellow"
+msgstr ""
+
+#: inc/functions.php:561
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions.php:566
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/functions.php:571
+msgid "Tumblr"
+msgstr ""
+
+#: inc/functions.php:581
+msgid "Reddit"
+msgstr ""
+
+#: inc/functions.php:586
+msgid "VKontakte"
+msgstr ""
+
+#: inc/functions.php:591
+msgid "Odnoklassniki"
+msgstr ""
+
+#: inc/functions.php:596
+msgid "Pocket"
+msgstr ""
+
+#: inc/functions.php:618
+msgid "Print"
+msgstr ""
+
+#: inc/functions.php:629
+msgid "Flickr"
+msgstr ""
+
+#: inc/functions.php:634
+msgid "RSS"
+msgstr ""
+
+#: inc/post-types.php:15
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:16 inc/post-types.php:47
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/post-types.php:17 inc/post-types.php:45
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/post-types.php:18
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/post-types.php:19 inc/post-types.php:42
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/post-types.php:20 inc/post-types.php:40
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: inc/post-types.php:21
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: inc/post-types.php:22
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: inc/post-types.php:25
+#, php-format
+msgid "%s Image"
+msgstr ""
+
+#: inc/post-types.php:26
+#, php-format
+msgid "Set %s Image"
+msgstr ""
+
+#: inc/post-types.php:27
+#, php-format
+msgid "Remove %s image"
+msgstr ""
+
+#: inc/post-types.php:28
+#, php-format
+msgid "Use as %s image"
+msgstr ""
+
+#: inc/post-types.php:41
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: inc/post-types.php:43 inc/post-types.php:44
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: inc/post-types.php:46
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/post-types.php:48
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: inc/post-types.php:49
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: inc/post-types.php:50
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: inc/post-types.php:51
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/post-types/layouts.php:10 inc/post-types/layouts.php:11
+#, php-format
+msgid "%s Groups"
+msgstr ""
+
+#: inc/post-types/layouts.php:59
+msgid "Hidden"
+msgstr ""
+
+#: inc/post-types/layouts.php:64
+msgid "PowerNode Options"
+msgstr ""
+
+#: inc/post-types/layouts.php:81
+msgid "Type"
+msgstr ""
+
+#: inc/post-types/layouts.php:87
+msgid "Submenu"
+msgstr ""
+
+#: inc/post-types/layouts.php:88
+msgid "Footer"
+msgstr ""
+
+#: inc/post-types/portfolio.php:10 inc/post-types/portfolio.php:11
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: inc/post-types/portfolio.php:13
+#, php-format
+msgid "%s Skill"
+msgstr ""
+
+#: inc/post-types/portfolio.php:14
+#, php-format
+msgid "%s Skills"
+msgstr ""
+
+#: inc/post-types/portfolio.php:60
+msgid "Single Portfolio Sidebar"
+msgstr ""
+
+#: inc/post-types/portfolio.php:73
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: inc/post-types/portfolio.php:111 inc/widgets/class-widget-posts.php:40
+#: integrations/elementor/widgets/portfolio.php:30
+#: integrations/elementor/widgets/posts.php:55
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post-types/portfolio.php:117
+msgid "Portfolio Layout"
+msgstr ""
+
+#: inc/post-types/portfolio.php:123
+msgid "Compact"
+msgstr ""
+
+#: inc/post-types/portfolio.php:130
+msgid "Show Categories?"
+msgstr ""
+
+#: inc/post-types/portfolio.php:133 inc/post-types/portfolio.php:143
+#: inc/post-types/portfolio.php:153 inc/post-types/portfolio.php:163
+#: inc/widgets/class-widget-blog.php:98 inc/widgets/class-widget-blog.php:108
+#: inc/widgets/class-widget-blog.php:118 inc/widgets/class-widget-blog.php:128
+#: inc/widgets/class-widget-blog.php:138 inc/widgets/class-widget-blog.php:191
+#: inc/widgets/class-widget-blog.php:221 inc/widgets/class-widget-blog.php:231
+#: inc/widgets/class-widget-blog.php:241 inc/widgets/class-widget-posts.php:97
+#: inc/widgets/class-widget-posts.php:107
+#: inc/widgets/class-widget-posts.php:117
+#: inc/widgets/class-widget-posts.php:127
+#: inc/widgets/class-widget-posts.php:158
+#: integrations/elementor/widgets/blog.php:177
+#: integrations/elementor/widgets/blog.php:201
+#: integrations/elementor/widgets/blog.php:216
+#: integrations/elementor/widgets/blog.php:228
+#: integrations/elementor/widgets/blog.php:240
+#: integrations/elementor/widgets/blog.php:323
+#: integrations/elementor/widgets/blog.php:367
+#: integrations/elementor/widgets/blog.php:379
+#: integrations/elementor/widgets/blog.php:391
+#: integrations/elementor/widgets/collage-box.php:120
+#: integrations/elementor/widgets/collage-box.php:212
+#: integrations/elementor/widgets/countdown.php:159
+#: integrations/elementor/widgets/features-box.php:454
+#: integrations/elementor/widgets/gallery.php:254
+#: integrations/elementor/widgets/icon-list.php:265
+#: integrations/elementor/widgets/image-box.php:199
+#: integrations/elementor/widgets/image-carousel.php:189
+#: integrations/elementor/widgets/image-carousel.php:262
+#: integrations/elementor/widgets/image-carousel.php:274
+#: integrations/elementor/widgets/image-carousel.php:650
+#: integrations/elementor/widgets/image-carousel.php:662
+#: integrations/elementor/widgets/image-carousel.php:674
+#: integrations/elementor/widgets/image-carousel.php:686
+#: integrations/elementor/widgets/image-carousel.php:711
+#: integrations/elementor/widgets/image-carousel.php:723
+#: integrations/elementor/widgets/image-carousel.php:735
+#: integrations/elementor/widgets/portfolio.php:173
+#: integrations/elementor/widgets/portfolio.php:197
+#: integrations/elementor/widgets/portfolio.php:212
+#: integrations/elementor/widgets/portfolio.php:224
+#: integrations/elementor/widgets/portfolio.php:277
+#: integrations/elementor/widgets/portfolio.php:315
+#: integrations/elementor/widgets/portfolio.php:359
+#: integrations/elementor/widgets/portfolio.php:371
+#: integrations/elementor/widgets/portfolio.php:383
+#: integrations/elementor/widgets/posts.php:159
+#: integrations/elementor/widgets/posts.php:183
+#: integrations/elementor/widgets/posts.php:208
+#: integrations/elementor/widgets/posts.php:220
+#: integrations/elementor/widgets/posts.php:271
+#: integrations/elementor/widgets/pricing.php:362
+#: integrations/elementor/widgets/reviews-carousel.php:814
+#: integrations/elementor/widgets/reviews-carousel.php:826
+#: integrations/elementor/widgets/reviews-carousel.php:838
+#: integrations/elementor/widgets/reviews-carousel.php:850
+#: integrations/meta-box/inc/fields/checkbox.php:53
+msgid "Yes"
+msgstr ""
+
+#: inc/post-types/portfolio.php:134 inc/post-types/portfolio.php:144
+#: inc/post-types/portfolio.php:154 inc/post-types/portfolio.php:164
+#: inc/widgets/class-widget-blog.php:99 inc/widgets/class-widget-blog.php:109
+#: inc/widgets/class-widget-blog.php:119 inc/widgets/class-widget-blog.php:129
+#: inc/widgets/class-widget-blog.php:139 inc/widgets/class-widget-blog.php:192
+#: inc/widgets/class-widget-blog.php:222 inc/widgets/class-widget-blog.php:232
+#: inc/widgets/class-widget-blog.php:242 inc/widgets/class-widget-posts.php:98
+#: inc/widgets/class-widget-posts.php:108
+#: inc/widgets/class-widget-posts.php:118
+#: inc/widgets/class-widget-posts.php:128
+#: inc/widgets/class-widget-posts.php:159
+#: inc/widgets/class-widget-posts.php:179
+#: integrations/elementor/widgets/blog.php:178
+#: integrations/elementor/widgets/blog.php:202
+#: integrations/elementor/widgets/blog.php:217
+#: integrations/elementor/widgets/blog.php:229
+#: integrations/elementor/widgets/blog.php:241
+#: integrations/elementor/widgets/blog.php:324
+#: integrations/elementor/widgets/blog.php:368
+#: integrations/elementor/widgets/blog.php:380
+#: integrations/elementor/widgets/blog.php:392
+#: integrations/elementor/widgets/collage-box.php:121
+#: integrations/elementor/widgets/collage-box.php:188
+#: integrations/elementor/widgets/collage-box.php:213
+#: integrations/elementor/widgets/collage-box.php:255
+#: integrations/elementor/widgets/countdown.php:160
+#: integrations/elementor/widgets/counter.php:465
+#: integrations/elementor/widgets/features-box.php:430
+#: integrations/elementor/widgets/features-box.php:455
+#: integrations/elementor/widgets/gallery.php:230
+#: integrations/elementor/widgets/gallery.php:255
+#: integrations/elementor/widgets/icon-list.php:266
+#: integrations/elementor/widgets/icon-list.php:508
+#: integrations/elementor/widgets/image-box.php:175
+#: integrations/elementor/widgets/image-box.php:200
+#: integrations/elementor/widgets/image-carousel.php:190
+#: integrations/elementor/widgets/image-carousel.php:238
+#: integrations/elementor/widgets/image-carousel.php:263
+#: integrations/elementor/widgets/image-carousel.php:275
+#: integrations/elementor/widgets/image-carousel.php:651
+#: integrations/elementor/widgets/image-carousel.php:663
+#: integrations/elementor/widgets/image-carousel.php:675
+#: integrations/elementor/widgets/image-carousel.php:687
+#: integrations/elementor/widgets/image-carousel.php:712
+#: integrations/elementor/widgets/image-carousel.php:724
+#: integrations/elementor/widgets/image-carousel.php:736
+#: integrations/elementor/widgets/image.php:88
+#: integrations/elementor/widgets/portfolio.php:174
+#: integrations/elementor/widgets/portfolio.php:198
+#: integrations/elementor/widgets/portfolio.php:213
+#: integrations/elementor/widgets/portfolio.php:225
+#: integrations/elementor/widgets/portfolio.php:278
+#: integrations/elementor/widgets/portfolio.php:316
+#: integrations/elementor/widgets/portfolio.php:360
+#: integrations/elementor/widgets/portfolio.php:372
+#: integrations/elementor/widgets/portfolio.php:384
+#: integrations/elementor/widgets/posts.php:160
+#: integrations/elementor/widgets/posts.php:184
+#: integrations/elementor/widgets/posts.php:209
+#: integrations/elementor/widgets/posts.php:221
+#: integrations/elementor/widgets/posts.php:272
+#: integrations/elementor/widgets/posts.php:295
+#: integrations/elementor/widgets/pricing.php:363
+#: integrations/elementor/widgets/pricing.php:574
+#: integrations/elementor/widgets/reviews-carousel.php:815
+#: integrations/elementor/widgets/reviews-carousel.php:827
+#: integrations/elementor/widgets/reviews-carousel.php:839
+#: integrations/elementor/widgets/reviews-carousel.php:851
+#: integrations/elementor/widgets/team-member.php:251
+#: integrations/elementor/widgets/video.php:102
+#: integrations/meta-box/inc/fields/checkbox.php:53
+msgid "No"
+msgstr ""
+
+#: inc/post-types/portfolio.php:140
+msgid "Show Title?"
+msgstr ""
+
+#: inc/post-types/portfolio.php:150
+msgid "Show Social Share?"
+msgstr ""
+
+#: inc/post-types/portfolio.php:160
+msgid "Show Related Portfolio?"
+msgstr ""
+
+#: inc/post-types/portfolio.php:479
+msgid "Related Portfolio"
+msgstr ""
+
+#: inc/post-types/portfolio.php:649
+msgid "End of content"
+msgstr ""
+
+#: inc/post-types/portfolio.php:656
+msgid "More Posts"
+msgstr ""
+
+#: inc/shortcodes/posts.php:282
+msgid ", "
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:20
+msgid "[POWERNODE] Blog"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:21
+msgid "Display a list of your blog on your site"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:29 inc/widgets/class-widget-blog.php:76
+#: inc/widgets/class-widget-image-box.php:35
+#: inc/widgets/class-widget-image-box.php:56
+#: inc/widgets/class-widget-posts.php:29 inc/widgets/class-widget-posts.php:75
+#: inc/widgets/class-widget-posts.php:188
+#: integrations/elementor/widgets/blog.php:108
+#: integrations/elementor/widgets/collage-box.php:75
+#: integrations/elementor/widgets/collage-box.php:280
+#: integrations/elementor/widgets/countdown.php:383
+#: integrations/elementor/widgets/counter.php:190
+#: integrations/elementor/widgets/counter.php:492
+#: integrations/elementor/widgets/features-box.php:137
+#: integrations/elementor/widgets/features-box.php:489
+#: integrations/elementor/widgets/gallery.php:121
+#: integrations/elementor/widgets/gallery.php:277
+#: integrations/elementor/widgets/icon-list.php:128
+#: integrations/elementor/widgets/icon-list.php:535
+#: integrations/elementor/widgets/image-box.php:75
+#: integrations/elementor/widgets/image-box.php:222
+#: integrations/elementor/widgets/image-carousel.php:109
+#: integrations/elementor/widgets/image-carousel.php:298
+#: integrations/elementor/widgets/portfolio.php:106
+#: integrations/elementor/widgets/posts.php:90
+#: integrations/elementor/widgets/posts.php:311
+#: integrations/elementor/widgets/pricing.php:149
+#: integrations/elementor/widgets/pricing.php:204
+#: integrations/elementor/widgets/pricing.php:610
+#: integrations/elementor/widgets/reviews-carousel.php:75
+#: integrations/elementor/widgets/reviews-carousel.php:352
+#: integrations/elementor/widgets/team-member.php:98
+#: integrations/elementor/widgets/team-member.php:490
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:31
+#: inc/widgets/class-widget-image-box.php:37
+#: inc/widgets/class-widget-posts.php:31
+msgid "Enter Widget Title."
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:36
+#: integrations/elementor/widgets/blog.php:53
+#: integrations/elementor/widgets/button.php:199
+#: integrations/elementor/widgets/gallery.php:65
+#: integrations/elementor/widgets/image-box.php:47
+#: integrations/elementor/widgets/image-carousel.php:53
+#: integrations/elementor/widgets/portfolio.php:67
+#: integrations/elementor/widgets/pricing.php:1391
+#: integrations/elementor/widgets/reviews-carousel.php:136
+#: integrations/elementor/widgets/team-member.php:48
+msgid "Style"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:40
+#: integrations/elementor/widgets/blog.php:57
+msgid "Fancy"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:41
+#: integrations/elementor/widgets/blog.php:58
+#: integrations/elementor/widgets/portfolio.php:71
+msgid "Box"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:47 inc/widgets/class-widget-posts.php:46
+#: integrations/elementor/widgets/blog.php:68
+#: integrations/elementor/widgets/portfolio.php:80
+#: integrations/elementor/widgets/posts.php:64
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:54 inc/widgets/class-widget-posts.php:53
+#: integrations/elementor/widgets/blog.php:78
+#: integrations/elementor/widgets/counter.php:322
+#: integrations/elementor/widgets/social-icons.php:181
+#: integrations/elementor/widgets/team-member.php:801
+#: integrations/meta-box/inc/fields/media.php:34
+msgid "View"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:57 inc/widgets/class-widget-posts.php:56
+#: integrations/elementor/widgets/blog.php:81
+msgid "Grid (Default)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:58 inc/widgets/class-widget-posts.php:57
+#: integrations/elementor/widgets/blog.php:82
+msgid "Slider"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:59 inc/widgets/class-widget-posts.php:58
+msgid "list"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:65 inc/widgets/class-widget-posts.php:64
+#: integrations/elementor/widgets/blog.php:92
+#: integrations/elementor/widgets/portfolio.php:90
+#: integrations/elementor/widgets/posts.php:74
+msgid "Posts Count"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:68 inc/widgets/class-widget-posts.php:67
+#: integrations/elementor/widgets/blog.php:96
+#: integrations/elementor/widgets/portfolio.php:94
+#: integrations/elementor/widgets/posts.php:78
+msgid "Numbers of items show per page."
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:72 inc/widgets/class-widget-posts.php:71
+#: integrations/elementor/widgets/blog.php:103
+#: integrations/elementor/widgets/portfolio.php:101
+#: integrations/elementor/widgets/posts.php:85
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:75 inc/widgets/class-widget-posts.php:74
+#: integrations/elementor/widgets/blog.php:107
+#: integrations/elementor/widgets/portfolio.php:105
+#: integrations/elementor/widgets/posts.php:89
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:77 inc/widgets/class-widget-posts.php:76
+#: integrations/elementor/widgets/blog.php:109
+#: integrations/elementor/widgets/portfolio.php:107
+#: integrations/elementor/widgets/posts.php:91
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:78 inc/widgets/class-widget-posts.php:77
+#: integrations/elementor/widgets/blog.php:110
+#: integrations/elementor/widgets/portfolio.php:108
+#: integrations/elementor/widgets/posts.php:92
+msgid "Number of comments"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:79 inc/widgets/class-widget-posts.php:78
+#: integrations/elementor/widgets/blog.php:111
+#: integrations/elementor/widgets/portfolio.php:109
+#: integrations/elementor/widgets/posts.php:93
+msgid "Last modified"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:85 inc/widgets/class-widget-posts.php:84
+#: integrations/elementor/widgets/blog.php:119
+#: integrations/elementor/widgets/portfolio.php:117
+#: integrations/elementor/widgets/posts.php:101
+msgid "Sort Order"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:88 inc/widgets/class-widget-posts.php:87
+#: integrations/elementor/widgets/blog.php:124
+#: integrations/elementor/widgets/portfolio.php:122
+#: integrations/elementor/widgets/posts.php:106
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:89 inc/widgets/class-widget-posts.php:88
+#: integrations/elementor/widgets/blog.php:123
+#: integrations/elementor/widgets/portfolio.php:121
+#: integrations/elementor/widgets/posts.php:105
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:95 inc/widgets/class-widget-blog.php:105
+#: inc/widgets/class-widget-posts.php:94
+#: integrations/elementor/widgets/blog.php:175
+#: integrations/elementor/widgets/portfolio.php:171
+#: integrations/elementor/widgets/posts.php:157
+msgid "Show Post Image"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:115 inc/widgets/class-widget-posts.php:104
+#: integrations/elementor/widgets/blog.php:214
+#: integrations/elementor/widgets/portfolio.php:210
+#: integrations/elementor/widgets/posts.php:181
+msgid "Show Post Title"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:125
+#: integrations/elementor/widgets/blog.php:226
+msgid "Show Post Meta"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:135
+#: integrations/elementor/widgets/blog.php:238
+msgid "Show Post Tags"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:145 inc/widgets/class-widget-posts.php:134
+#: integrations/elementor/widgets/blog.php:250
+#: integrations/elementor/widgets/portfolio.php:234
+#: integrations/elementor/widgets/posts.php:230
+msgid "Post Content"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:148 inc/widgets/class-widget-posts.php:137
+#: integrations/elementor/widgets/blog.php:253
+#: integrations/elementor/widgets/portfolio.php:237
+#: integrations/elementor/widgets/posts.php:233
+msgid "Excerpt"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:149 inc/widgets/class-widget-posts.php:138
+#: integrations/elementor/widgets/blog.php:254
+#: integrations/elementor/widgets/posts.php:234
+msgid "Full"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:150 inc/widgets/class-widget-blog.php:168
+#: inc/widgets/class-widget-posts.php:139
+#: integrations/elementor/widgets/blog.php:255
+#: integrations/elementor/widgets/blog.php:283
+#: integrations/elementor/widgets/portfolio.php:238
+#: integrations/elementor/widgets/portfolio.php:266
+#: integrations/elementor/widgets/posts.php:235
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:156 inc/widgets/class-widget-posts.php:145
+#: integrations/elementor/widgets/blog.php:264
+#: integrations/elementor/widgets/portfolio.php:247
+#: integrations/elementor/widgets/posts.php:244
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:162
+#: integrations/elementor/widgets/blog.php:277
+#: integrations/elementor/widgets/portfolio.php:260
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:165
+#: integrations/elementor/widgets/blog.php:280
+#: integrations/elementor/widgets/portfolio.php:263
+msgid "Link (Default)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:166
+#: integrations/elementor/widgets/blog.php:281
+#: integrations/elementor/widgets/button.php:21
+#: integrations/elementor/widgets/button.php:37
+#: integrations/elementor/widgets/button.php:191
+#: integrations/elementor/widgets/portfolio.php:264
+#: integrations/elementor/widgets/pricing.php:1383
+msgid "Button"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:167
+#: integrations/elementor/widgets/blog.php:282
+#: integrations/elementor/widgets/button.php:84
+#: integrations/elementor/widgets/button.php:469
+#: integrations/elementor/widgets/counter.php:80
+#: integrations/elementor/widgets/counter.php:304
+#: integrations/elementor/widgets/features-box.php:80
+#: integrations/elementor/widgets/features-box.php:250
+#: integrations/elementor/widgets/icon-list.php:84
+#: integrations/elementor/widgets/icon-list.php:373
+#: integrations/elementor/widgets/portfolio.php:265
+#: integrations/elementor/widgets/pricing.php:92
+#: integrations/elementor/widgets/pricing.php:184
+#: integrations/elementor/widgets/pricing.php:386
+#: integrations/elementor/widgets/social-icons.php:55
+#: integrations/elementor/widgets/social-icons.php:66
+#: integrations/elementor/widgets/team-member.php:132
+#: integrations/elementor/widgets/team-member.php:143
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:174
+#: integrations/elementor/widgets/blog.php:306
+#: integrations/elementor/widgets/portfolio.php:298
+msgid "Rows"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:178 inc/widgets/class-widget-blog.php:253
+#: inc/widgets/class-widget-blog.php:270 inc/widgets/class-widget-blog.php:287
+#: inc/widgets/class-widget-blog.php:302
+#: integrations/elementor/widgets/blog.php:416
+#: integrations/elementor/widgets/blog.php:434
+#: integrations/elementor/widgets/blog.php:452
+#: integrations/elementor/widgets/blog.php:468
+#: integrations/elementor/widgets/gallery.php:600
+#: integrations/elementor/widgets/gallery.php:622
+#: integrations/elementor/widgets/gallery.php:640
+#: integrations/elementor/widgets/gallery.php:656
+#: integrations/elementor/widgets/portfolio.php:406
+#: integrations/elementor/widgets/portfolio.php:424
+#: integrations/elementor/widgets/portfolio.php:442
+#: integrations/elementor/widgets/portfolio.php:458
+#: integrations/elementor/widgets/reviews-carousel.php:708
+#: integrations/elementor/widgets/reviews-carousel.php:730
+#: integrations/elementor/widgets/reviews-carousel.php:750
+#: integrations/elementor/widgets/reviews-carousel.php:768
+msgid "1 - Item"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:179 inc/widgets/class-widget-blog.php:254
+#: inc/widgets/class-widget-blog.php:271 inc/widgets/class-widget-blog.php:288
+#: inc/widgets/class-widget-blog.php:303
+#: integrations/elementor/widgets/blog.php:417
+#: integrations/elementor/widgets/blog.php:435
+#: integrations/elementor/widgets/blog.php:453
+#: integrations/elementor/widgets/blog.php:469
+#: integrations/elementor/widgets/gallery.php:601
+#: integrations/elementor/widgets/gallery.php:623
+#: integrations/elementor/widgets/gallery.php:641
+#: integrations/elementor/widgets/gallery.php:657
+#: integrations/elementor/widgets/portfolio.php:407
+#: integrations/elementor/widgets/portfolio.php:425
+#: integrations/elementor/widgets/portfolio.php:443
+#: integrations/elementor/widgets/portfolio.php:459
+#: integrations/elementor/widgets/reviews-carousel.php:709
+#: integrations/elementor/widgets/reviews-carousel.php:731
+#: integrations/elementor/widgets/reviews-carousel.php:751
+#: integrations/elementor/widgets/reviews-carousel.php:769
+msgid "2 - Item(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:180 inc/widgets/class-widget-blog.php:255
+#: inc/widgets/class-widget-blog.php:272 inc/widgets/class-widget-blog.php:289
+#: inc/widgets/class-widget-blog.php:304
+#: integrations/elementor/widgets/blog.php:418
+#: integrations/elementor/widgets/blog.php:436
+#: integrations/elementor/widgets/blog.php:454
+#: integrations/elementor/widgets/blog.php:470
+#: integrations/elementor/widgets/gallery.php:602
+#: integrations/elementor/widgets/gallery.php:624
+#: integrations/elementor/widgets/gallery.php:642
+#: integrations/elementor/widgets/gallery.php:658
+#: integrations/elementor/widgets/portfolio.php:408
+#: integrations/elementor/widgets/portfolio.php:426
+#: integrations/elementor/widgets/portfolio.php:444
+#: integrations/elementor/widgets/portfolio.php:460
+#: integrations/elementor/widgets/reviews-carousel.php:710
+#: integrations/elementor/widgets/reviews-carousel.php:732
+#: integrations/elementor/widgets/reviews-carousel.php:752
+#: integrations/elementor/widgets/reviews-carousel.php:770
+msgid "3 - Item(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:181 inc/widgets/class-widget-blog.php:256
+#: inc/widgets/class-widget-blog.php:273 inc/widgets/class-widget-blog.php:290
+#: integrations/elementor/widgets/blog.php:419
+#: integrations/elementor/widgets/blog.php:437
+#: integrations/elementor/widgets/blog.php:455
+#: integrations/elementor/widgets/gallery.php:603
+#: integrations/elementor/widgets/gallery.php:625
+#: integrations/elementor/widgets/gallery.php:643
+#: integrations/elementor/widgets/portfolio.php:409
+#: integrations/elementor/widgets/portfolio.php:427
+#: integrations/elementor/widgets/portfolio.php:445
+#: integrations/elementor/widgets/reviews-carousel.php:711
+#: integrations/elementor/widgets/reviews-carousel.php:733
+#: integrations/elementor/widgets/reviews-carousel.php:753
+msgid "4 - Item(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:188
+msgid "Slider Navigation"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:198
+msgid "Slider Navigation Style"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:201
+#: integrations/elementor/widgets/blog.php:336
+#: integrations/elementor/widgets/portfolio.php:328
+msgid "Circle (default)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:202
+#: integrations/elementor/widgets/blog.php:337
+#: integrations/elementor/widgets/portfolio.php:329
+msgid "Rectangle"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:208
+msgid "Slider Navigation Position"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:211
+#: integrations/elementor/widgets/blog.php:352
+#: integrations/elementor/widgets/portfolio.php:344
+msgid "Slider Middle (Default)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:212
+#: integrations/elementor/widgets/blog.php:353
+#: integrations/elementor/widgets/portfolio.php:345
+msgid "Title Right"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:218
+msgid "Slider Loop"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:228
+msgid "Slider Dots"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:238
+#: integrations/elementor/widgets/blog.php:389
+#: integrations/elementor/widgets/image-carousel.php:684
+#: integrations/elementor/widgets/portfolio.php:381
+#: integrations/elementor/widgets/reviews-carousel.php:848
+msgid "Auto Play"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:248
+#: integrations/elementor/widgets/blog.php:412
+#: integrations/elementor/widgets/gallery.php:596
+#: integrations/elementor/widgets/portfolio.php:402
+#: integrations/elementor/widgets/reviews-carousel.php:704
+msgid "Large devices"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:249
+#: integrations/elementor/widgets/blog.php:413
+#: integrations/elementor/widgets/gallery.php:597
+#: integrations/elementor/widgets/portfolio.php:403
+#: integrations/elementor/widgets/reviews-carousel.php:705
+msgid "Show numbers of items Large devices (desktops, 992px and up)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:257 inc/widgets/class-widget-blog.php:274
+#: integrations/elementor/widgets/blog.php:420
+#: integrations/elementor/widgets/blog.php:438
+#: integrations/elementor/widgets/gallery.php:604
+#: integrations/elementor/widgets/gallery.php:626
+#: integrations/elementor/widgets/portfolio.php:410
+#: integrations/elementor/widgets/portfolio.php:428
+#: integrations/elementor/widgets/reviews-carousel.php:712
+#: integrations/elementor/widgets/reviews-carousel.php:734
+#: integrations/elementor/widgets/reviews-carousel.php:754
+msgid "5 - Item(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:258 inc/widgets/class-widget-blog.php:275
+#: integrations/elementor/widgets/blog.php:421
+#: integrations/elementor/widgets/blog.php:439
+#: integrations/elementor/widgets/gallery.php:605
+#: integrations/elementor/widgets/gallery.php:627
+#: integrations/elementor/widgets/portfolio.php:411
+#: integrations/elementor/widgets/portfolio.php:429
+#: integrations/elementor/widgets/reviews-carousel.php:713
+#: integrations/elementor/widgets/reviews-carousel.php:735
+#: integrations/elementor/widgets/reviews-carousel.php:755
+msgid "6 - Item(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:265
+#: integrations/elementor/widgets/blog.php:430
+#: integrations/elementor/widgets/gallery.php:618
+#: integrations/elementor/widgets/portfolio.php:420
+#: integrations/elementor/widgets/reviews-carousel.php:726
+msgid "Medium devices"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:266
+#: integrations/elementor/widgets/blog.php:431
+#: integrations/elementor/widgets/gallery.php:619
+#: integrations/elementor/widgets/portfolio.php:421
+#: integrations/elementor/widgets/reviews-carousel.php:727
+msgid "Show numbers of items Medium devices (tablets, less than 992px)"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:282
+#: integrations/elementor/widgets/blog.php:448
+#: integrations/elementor/widgets/gallery.php:636
+#: integrations/elementor/widgets/portfolio.php:438
+#: integrations/elementor/widgets/reviews-carousel.php:746
+msgid "Small devices"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:283
+#: integrations/elementor/widgets/blog.php:449
+#: integrations/elementor/widgets/gallery.php:637
+#: integrations/elementor/widgets/portfolio.php:439
+#: integrations/elementor/widgets/reviews-carousel.php:747
+msgid "Show numbers of items Small devices (landscape phones, 576px and up)."
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:297
+#: integrations/elementor/widgets/blog.php:464
+#: integrations/elementor/widgets/gallery.php:652
+#: integrations/elementor/widgets/portfolio.php:454
+#: integrations/elementor/widgets/reviews-carousel.php:764
+msgid "Extra small devices"
+msgstr ""
+
+#: inc/widgets/class-widget-blog.php:298
+#: integrations/elementor/widgets/blog.php:465
+#: integrations/elementor/widgets/gallery.php:653
+#: integrations/elementor/widgets/portfolio.php:455
+#: integrations/elementor/widgets/reviews-carousel.php:765
+msgid ""
+"Show numbers of items Extra small devices (portrait phones, less than 576px)."
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:20
+msgid "Same window"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:21
+msgid "New window"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:26
+msgid "[POWERNODE] Image Box"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:27
+msgid "Add Image Box"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:42
+#: inc/widgets/class-widget-posts.php:165
+#: integrations/elementor/widgets/button.php:99
+#: integrations/elementor/widgets/collage-box.php:47
+#: integrations/elementor/widgets/collage-box.php:168
+#: integrations/elementor/widgets/counter.php:95
+#: integrations/elementor/widgets/counter.php:451
+#: integrations/elementor/widgets/features-box.php:95
+#: integrations/elementor/widgets/features-box.php:416
+#: integrations/elementor/widgets/gallery.php:79
+#: integrations/elementor/widgets/gallery.php:219
+#: integrations/elementor/widgets/icon-list.php:99
+#: integrations/elementor/widgets/icon-list.php:494
+#: integrations/elementor/widgets/image-box.php:61
+#: integrations/elementor/widgets/image-box.php:155
+#: integrations/elementor/widgets/image-carousel.php:67
+#: integrations/elementor/widgets/image-carousel.php:227
+#: integrations/elementor/widgets/image.php:24
+#: integrations/elementor/widgets/image.php:40
+#: integrations/elementor/widgets/posts.php:284
+#: integrations/elementor/widgets/pricing.php:107
+#: integrations/elementor/widgets/pricing.php:560
+#: integrations/elementor/widgets/reviews-carousel.php:84
+#: integrations/elementor/widgets/team-member.php:61
+#: integrations/elementor/widgets/team-member.php:240
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:45
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:49
+#: inc/widgets/class-widget-posts.php:169
+msgid "Image Size"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:52
+#: inc/widgets/class-widget-posts.php:172
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:58
+msgid "Enter Title."
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:64
+#: inc/widgets/class-widget-posts.php:263
+#: integrations/elementor/widgets/blockquote.php:39
+#: integrations/elementor/widgets/blockquote.php:98
+#: integrations/elementor/widgets/collage-box.php:432
+#: integrations/elementor/widgets/counter.php:803
+#: integrations/elementor/widgets/features-box.php:641
+#: integrations/elementor/widgets/gallery.php:132
+#: integrations/elementor/widgets/gallery.php:428
+#: integrations/elementor/widgets/heading.php:41
+#: integrations/elementor/widgets/icon-list.php:687
+#: integrations/elementor/widgets/image-box.php:374
+#: integrations/elementor/widgets/image-carousel.php:120
+#: integrations/elementor/widgets/image-carousel.php:450
+#: integrations/elementor/widgets/posts.php:415
+#: integrations/elementor/widgets/pricing.php:761
+#: integrations/elementor/widgets/reviews-carousel.php:54
+#: integrations/elementor/widgets/reviews-carousel.php:503
+#: integrations/elementor/widgets/team-member.php:41
+#: integrations/elementor/widgets/team-member.php:642
+#: integrations/elementor/widgets/text.php:39
+#: integrations/elementor/widgets/text.php:98
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:70
+#: integrations/elementor/widgets/button.php:141
+#: integrations/elementor/widgets/button.php:206
+#: integrations/elementor/widgets/collage-box.php:106
+#: integrations/elementor/widgets/counter.php:221
+#: integrations/elementor/widgets/features-box.php:167
+#: integrations/elementor/widgets/gallery.php:108
+#: integrations/elementor/widgets/gallery.php:148
+#: integrations/elementor/widgets/icon-list.php:141
+#: integrations/elementor/widgets/image-box.php:106
+#: integrations/elementor/widgets/image-carousel.php:96
+#: integrations/elementor/widgets/image.php:110
+#: integrations/elementor/widgets/pricing.php:303
+#: integrations/elementor/widgets/pricing.php:1398
+#: integrations/elementor/widgets/reviews-carousel.php:117
+#: integrations/elementor/widgets/social-icons.php:91
+#: integrations/elementor/widgets/team-member.php:168
+#: integrations/elementor/widgets/team-member.php:191
+#: integrations/elementor/widgets/video.php:124
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:72
+msgid ""
+"Enter URL if you want this image to have a link (Note: parameters like "
+"\"mailto:\" are also accepted)."
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:76
+msgid "Link Target"
+msgstr ""
+
+#: inc/widgets/class-widget-image-box.php:82
+msgid "Image Position"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:20
+msgid "[POWERNODE] Posts"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:21
+msgid "Display a list of your posts on your site"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:36
+#: integrations/elementor/widgets/posts.php:51
+msgid "Post Type"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:39
+#: integrations/elementor/widgets/posts.php:54
+msgid "Post"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:114
+#: integrations/elementor/widgets/posts.php:206
+msgid "Show Post date"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:124
+#: integrations/elementor/widgets/posts.php:218
+msgid "Show Post Categories"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:151
+#: integrations/elementor/widgets/blog.php:46
+#: integrations/elementor/widgets/countdown.php:139
+#: integrations/elementor/widgets/icon-list.php:40
+#: integrations/elementor/widgets/icon-list.php:214
+#: integrations/elementor/widgets/portfolio.php:46
+#: integrations/elementor/widgets/posts.php:44
+#: integrations/elementor/widgets/posts.php:261
+#: integrations/elementor/widgets/pricing.php:41
+#: integrations/elementor/widgets/social-icons.php:151
+msgid "General"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:155
+#: integrations/elementor/widgets/posts.php:269
+msgid "Removed List Border"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:176
+#: integrations/elementor/widgets/collage-box.php:185
+#: integrations/elementor/widgets/collage-box.php:252
+#: integrations/elementor/widgets/counter.php:462
+#: integrations/elementor/widgets/features-box.php:427
+#: integrations/elementor/widgets/gallery.php:227
+#: integrations/elementor/widgets/icon-list.php:505
+#: integrations/elementor/widgets/image-box.php:172
+#: integrations/elementor/widgets/image-carousel.php:235
+#: integrations/elementor/widgets/image.php:84
+#: integrations/elementor/widgets/posts.php:292
+#: integrations/elementor/widgets/pricing.php:571
+#: integrations/elementor/widgets/team-member.php:248
+#: integrations/elementor/widgets/video.php:98
+msgid "Rounded Cornors"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:180
+#: integrations/elementor/widgets/button.php:337
+#: integrations/elementor/widgets/collage-box.php:189
+#: integrations/elementor/widgets/collage-box.php:256
+#: integrations/elementor/widgets/counter.php:466
+#: integrations/elementor/widgets/features-box.php:431
+#: integrations/elementor/widgets/gallery.php:231
+#: integrations/elementor/widgets/icon-list.php:509
+#: integrations/elementor/widgets/image-box.php:176
+#: integrations/elementor/widgets/image-carousel.php:239
+#: integrations/elementor/widgets/image.php:89
+#: integrations/elementor/widgets/posts.php:296
+#: integrations/elementor/widgets/pricing.php:575
+#: integrations/elementor/widgets/pricing.php:1500
+#: integrations/elementor/widgets/team-member.php:252
+#: integrations/elementor/widgets/video.php:103
+msgid "Rounded"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:181
+#: integrations/elementor/widgets/collage-box.php:190
+#: integrations/elementor/widgets/collage-box.php:257
+#: integrations/elementor/widgets/counter.php:467
+#: integrations/elementor/widgets/features-box.php:432
+#: integrations/elementor/widgets/gallery.php:232
+#: integrations/elementor/widgets/icon-list.php:510
+#: integrations/elementor/widgets/image-box.php:177
+#: integrations/elementor/widgets/image-carousel.php:240
+#: integrations/elementor/widgets/image.php:90
+#: integrations/elementor/widgets/posts.php:297
+#: integrations/elementor/widgets/pricing.php:576
+#: integrations/elementor/widgets/team-member.php:253
+#: integrations/elementor/widgets/video.php:104
+msgid "Rounded Small"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:182
+#: integrations/elementor/widgets/collage-box.php:191
+#: integrations/elementor/widgets/collage-box.php:258
+#: integrations/elementor/widgets/counter.php:468
+#: integrations/elementor/widgets/features-box.php:433
+#: integrations/elementor/widgets/gallery.php:233
+#: integrations/elementor/widgets/icon-list.php:511
+#: integrations/elementor/widgets/image-box.php:178
+#: integrations/elementor/widgets/image-carousel.php:241
+#: integrations/elementor/widgets/image.php:91
+#: integrations/elementor/widgets/posts.php:298
+#: integrations/elementor/widgets/pricing.php:577
+#: integrations/elementor/widgets/team-member.php:254
+#: integrations/elementor/widgets/video.php:105
+msgid "Rounded Large"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:192
+#: inc/widgets/class-widget-posts.php:267
+#: integrations/elementor/widgets/blockquote.php:106
+#: integrations/elementor/widgets/collage-box.php:288
+#: integrations/elementor/widgets/collage-box.php:440
+#: integrations/elementor/widgets/countdown.php:239
+#: integrations/elementor/widgets/countdown.php:391
+#: integrations/elementor/widgets/counter.php:500
+#: integrations/elementor/widgets/counter.php:660
+#: integrations/elementor/widgets/counter.php:811
+#: integrations/elementor/widgets/features-box.php:497
+#: integrations/elementor/widgets/features-box.php:649
+#: integrations/elementor/widgets/gallery.php:285
+#: integrations/elementor/widgets/gallery.php:436
+#: integrations/elementor/widgets/heading.php:64
+#: integrations/elementor/widgets/icon-list.php:543
+#: integrations/elementor/widgets/icon-list.php:695
+#: integrations/elementor/widgets/image-box.php:230
+#: integrations/elementor/widgets/image-box.php:382
+#: integrations/elementor/widgets/image-carousel.php:306
+#: integrations/elementor/widgets/image-carousel.php:467
+#: integrations/elementor/widgets/posts.php:319
+#: integrations/elementor/widgets/posts.php:423
+#: integrations/elementor/widgets/pricing.php:618
+#: integrations/elementor/widgets/pricing.php:769
+#: integrations/elementor/widgets/pricing.php:929
+#: integrations/elementor/widgets/pricing.php:1089
+#: integrations/elementor/widgets/pricing.php:1240
+#: integrations/elementor/widgets/reviews-carousel.php:209
+#: integrations/elementor/widgets/reviews-carousel.php:360
+#: integrations/elementor/widgets/reviews-carousel.php:511
+#: integrations/elementor/widgets/team-member.php:347
+#: integrations/elementor/widgets/team-member.php:498
+#: integrations/elementor/widgets/team-member.php:650
+#: integrations/elementor/widgets/text.php:106
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:209
+#: inc/widgets/class-widget-posts.php:284
+#: integrations/elementor/widgets/blockquote.php:127
+#: integrations/elementor/widgets/collage-box.php:309
+#: integrations/elementor/widgets/collage-box.php:461
+#: integrations/elementor/widgets/countdown.php:260
+#: integrations/elementor/widgets/countdown.php:412
+#: integrations/elementor/widgets/counter.php:521
+#: integrations/elementor/widgets/counter.php:681
+#: integrations/elementor/widgets/counter.php:832
+#: integrations/elementor/widgets/features-box.php:518
+#: integrations/elementor/widgets/features-box.php:670
+#: integrations/elementor/widgets/gallery.php:306
+#: integrations/elementor/widgets/gallery.php:457
+#: integrations/elementor/widgets/heading.php:85
+#: integrations/elementor/widgets/icon-list.php:565
+#: integrations/elementor/widgets/icon-list.php:716
+#: integrations/elementor/widgets/image-box.php:251
+#: integrations/elementor/widgets/image-box.php:403
+#: integrations/elementor/widgets/image-carousel.php:327
+#: integrations/elementor/widgets/image-carousel.php:488
+#: integrations/elementor/widgets/posts.php:340
+#: integrations/elementor/widgets/posts.php:444
+#: integrations/elementor/widgets/pricing.php:639
+#: integrations/elementor/widgets/pricing.php:790
+#: integrations/elementor/widgets/pricing.php:950
+#: integrations/elementor/widgets/pricing.php:1110
+#: integrations/elementor/widgets/pricing.php:1261
+#: integrations/elementor/widgets/reviews-carousel.php:230
+#: integrations/elementor/widgets/reviews-carousel.php:381
+#: integrations/elementor/widgets/reviews-carousel.php:532
+#: integrations/elementor/widgets/team-member.php:368
+#: integrations/elementor/widgets/team-member.php:519
+#: integrations/elementor/widgets/team-member.php:671
+#: integrations/elementor/widgets/text.php:127
+msgid "Font Size"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:216
+#: inc/widgets/class-widget-posts.php:291
+#: integrations/elementor/widgets/blockquote.php:152
+#: integrations/elementor/widgets/button.php:270
+#: integrations/elementor/widgets/collage-box.php:334
+#: integrations/elementor/widgets/collage-box.php:486
+#: integrations/elementor/widgets/countdown.php:285
+#: integrations/elementor/widgets/countdown.php:437
+#: integrations/elementor/widgets/counter.php:546
+#: integrations/elementor/widgets/counter.php:706
+#: integrations/elementor/widgets/counter.php:857
+#: integrations/elementor/widgets/features-box.php:543
+#: integrations/elementor/widgets/features-box.php:695
+#: integrations/elementor/widgets/gallery.php:331
+#: integrations/elementor/widgets/gallery.php:482
+#: integrations/elementor/widgets/heading.php:110
+#: integrations/elementor/widgets/icon-list.php:590
+#: integrations/elementor/widgets/icon-list.php:741
+#: integrations/elementor/widgets/image-box.php:276
+#: integrations/elementor/widgets/image-box.php:428
+#: integrations/elementor/widgets/image-carousel.php:352
+#: integrations/elementor/widgets/image-carousel.php:513
+#: integrations/elementor/widgets/posts.php:351
+#: integrations/elementor/widgets/posts.php:469
+#: integrations/elementor/widgets/pricing.php:664
+#: integrations/elementor/widgets/pricing.php:815
+#: integrations/elementor/widgets/pricing.php:975
+#: integrations/elementor/widgets/pricing.php:1135
+#: integrations/elementor/widgets/pricing.php:1286
+#: integrations/elementor/widgets/pricing.php:1433
+#: integrations/elementor/widgets/reviews-carousel.php:255
+#: integrations/elementor/widgets/reviews-carousel.php:406
+#: integrations/elementor/widgets/reviews-carousel.php:557
+#: integrations/elementor/widgets/team-member.php:393
+#: integrations/elementor/widgets/team-member.php:544
+#: integrations/elementor/widgets/team-member.php:696
+#: integrations/elementor/widgets/text.php:152
+msgid "Font Weight"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:223
+#: inc/widgets/class-widget-posts.php:298
+#: integrations/elementor/widgets/blockquote.php:162
+#: integrations/elementor/widgets/button.php:280
+#: integrations/elementor/widgets/collage-box.php:344
+#: integrations/elementor/widgets/collage-box.php:496
+#: integrations/elementor/widgets/countdown.php:295
+#: integrations/elementor/widgets/countdown.php:447
+#: integrations/elementor/widgets/counter.php:556
+#: integrations/elementor/widgets/counter.php:716
+#: integrations/elementor/widgets/counter.php:867
+#: integrations/elementor/widgets/features-box.php:553
+#: integrations/elementor/widgets/features-box.php:705
+#: integrations/elementor/widgets/gallery.php:341
+#: integrations/elementor/widgets/gallery.php:492
+#: integrations/elementor/widgets/heading.php:120
+#: integrations/elementor/widgets/icon-list.php:600
+#: integrations/elementor/widgets/icon-list.php:751
+#: integrations/elementor/widgets/image-box.php:286
+#: integrations/elementor/widgets/image-box.php:438
+#: integrations/elementor/widgets/image-carousel.php:362
+#: integrations/elementor/widgets/image-carousel.php:523
+#: integrations/elementor/widgets/posts.php:361
+#: integrations/elementor/widgets/posts.php:479
+#: integrations/elementor/widgets/pricing.php:674
+#: integrations/elementor/widgets/pricing.php:825
+#: integrations/elementor/widgets/pricing.php:985
+#: integrations/elementor/widgets/pricing.php:1145
+#: integrations/elementor/widgets/pricing.php:1296
+#: integrations/elementor/widgets/pricing.php:1443
+#: integrations/elementor/widgets/reviews-carousel.php:265
+#: integrations/elementor/widgets/reviews-carousel.php:416
+#: integrations/elementor/widgets/reviews-carousel.php:567
+#: integrations/elementor/widgets/team-member.php:403
+#: integrations/elementor/widgets/team-member.php:554
+#: integrations/elementor/widgets/team-member.php:706
+#: integrations/elementor/widgets/text.php:162
+msgid "Font Style"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:230
+#: inc/widgets/class-widget-posts.php:305
+#: integrations/elementor/widgets/blockquote.php:172
+#: integrations/elementor/widgets/button.php:290
+#: integrations/elementor/widgets/collage-box.php:354
+#: integrations/elementor/widgets/collage-box.php:506
+#: integrations/elementor/widgets/countdown.php:305
+#: integrations/elementor/widgets/countdown.php:457
+#: integrations/elementor/widgets/counter.php:566
+#: integrations/elementor/widgets/counter.php:726
+#: integrations/elementor/widgets/counter.php:877
+#: integrations/elementor/widgets/features-box.php:563
+#: integrations/elementor/widgets/features-box.php:715
+#: integrations/elementor/widgets/gallery.php:351
+#: integrations/elementor/widgets/gallery.php:502
+#: integrations/elementor/widgets/heading.php:130
+#: integrations/elementor/widgets/icon-list.php:610
+#: integrations/elementor/widgets/icon-list.php:761
+#: integrations/elementor/widgets/image-box.php:296
+#: integrations/elementor/widgets/image-box.php:448
+#: integrations/elementor/widgets/image-carousel.php:372
+#: integrations/elementor/widgets/image-carousel.php:533
+#: integrations/elementor/widgets/posts.php:371
+#: integrations/elementor/widgets/posts.php:489
+#: integrations/elementor/widgets/pricing.php:684
+#: integrations/elementor/widgets/pricing.php:835
+#: integrations/elementor/widgets/pricing.php:995
+#: integrations/elementor/widgets/pricing.php:1155
+#: integrations/elementor/widgets/pricing.php:1306
+#: integrations/elementor/widgets/pricing.php:1453
+#: integrations/elementor/widgets/reviews-carousel.php:275
+#: integrations/elementor/widgets/reviews-carousel.php:426
+#: integrations/elementor/widgets/reviews-carousel.php:577
+#: integrations/elementor/widgets/team-member.php:413
+#: integrations/elementor/widgets/team-member.php:564
+#: integrations/elementor/widgets/team-member.php:716
+#: integrations/elementor/widgets/text.php:172
+msgid "Text Transform"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:237
+#: inc/widgets/class-widget-posts.php:312
+#: integrations/elementor/widgets/blockquote.php:182
+#: integrations/elementor/widgets/button.php:488
+#: integrations/elementor/widgets/collage-box.php:364
+#: integrations/elementor/widgets/collage-box.php:516
+#: integrations/elementor/widgets/countdown.php:315
+#: integrations/elementor/widgets/countdown.php:467
+#: integrations/elementor/widgets/counter.php:384
+#: integrations/elementor/widgets/counter.php:576
+#: integrations/elementor/widgets/counter.php:736
+#: integrations/elementor/widgets/counter.php:887
+#: integrations/elementor/widgets/features-box.php:573
+#: integrations/elementor/widgets/features-box.php:725
+#: integrations/elementor/widgets/gallery.php:361
+#: integrations/elementor/widgets/gallery.php:512
+#: integrations/elementor/widgets/heading.php:140
+#: integrations/elementor/widgets/icon-list.php:275
+#: integrations/elementor/widgets/icon-list.php:620
+#: integrations/elementor/widgets/icon-list.php:771
+#: integrations/elementor/widgets/image-box.php:306
+#: integrations/elementor/widgets/image-box.php:458
+#: integrations/elementor/widgets/image-carousel.php:382
+#: integrations/elementor/widgets/image-carousel.php:543
+#: integrations/elementor/widgets/posts.php:381
+#: integrations/elementor/widgets/posts.php:499
+#: integrations/elementor/widgets/pricing.php:694
+#: integrations/elementor/widgets/pricing.php:845
+#: integrations/elementor/widgets/pricing.php:1005
+#: integrations/elementor/widgets/pricing.php:1165
+#: integrations/elementor/widgets/pricing.php:1316
+#: integrations/elementor/widgets/reviews-carousel.php:285
+#: integrations/elementor/widgets/reviews-carousel.php:436
+#: integrations/elementor/widgets/reviews-carousel.php:587
+#: integrations/elementor/widgets/team-member.php:423
+#: integrations/elementor/widgets/team-member.php:574
+#: integrations/elementor/widgets/team-member.php:726
+#: integrations/elementor/widgets/text.php:182
+msgid "Color"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:244
+#: inc/widgets/class-widget-posts.php:319
+#: integrations/elementor/widgets/blockquote.php:226
+#: integrations/elementor/widgets/button.php:226
+#: integrations/elementor/widgets/collage-box.php:200
+#: integrations/elementor/widgets/collage-box.php:408
+#: integrations/elementor/widgets/collage-box.php:560
+#: integrations/elementor/widgets/countdown.php:147
+#: integrations/elementor/widgets/countdown.php:359
+#: integrations/elementor/widgets/countdown.php:511
+#: integrations/elementor/widgets/counter.php:620
+#: integrations/elementor/widgets/counter.php:780
+#: integrations/elementor/widgets/counter.php:931
+#: integrations/elementor/widgets/features-box.php:442
+#: integrations/elementor/widgets/features-box.php:617
+#: integrations/elementor/widgets/features-box.php:769
+#: integrations/elementor/widgets/gallery.php:242
+#: integrations/elementor/widgets/gallery.php:405
+#: integrations/elementor/widgets/gallery.php:556
+#: integrations/elementor/widgets/heading.php:184
+#: integrations/elementor/widgets/icon-list.php:664
+#: integrations/elementor/widgets/icon-list.php:815
+#: integrations/elementor/widgets/image-box.php:187
+#: integrations/elementor/widgets/image-box.php:350
+#: integrations/elementor/widgets/image-box.php:502
+#: integrations/elementor/widgets/image-carousel.php:250
+#: integrations/elementor/widgets/image-carousel.php:426
+#: integrations/elementor/widgets/image-carousel.php:587
+#: integrations/elementor/widgets/image.php:100
+#: integrations/elementor/widgets/posts.php:391
+#: integrations/elementor/widgets/posts.php:509
+#: integrations/elementor/widgets/pricing.php:738
+#: integrations/elementor/widgets/pricing.php:889
+#: integrations/elementor/widgets/pricing.php:1049
+#: integrations/elementor/widgets/pricing.php:1209
+#: integrations/elementor/widgets/pricing.php:1360
+#: integrations/elementor/widgets/pricing.php:1485
+#: integrations/elementor/widgets/reviews-carousel.php:329
+#: integrations/elementor/widgets/reviews-carousel.php:480
+#: integrations/elementor/widgets/reviews-carousel.php:631
+#: integrations/elementor/widgets/social-icons.php:159
+#: integrations/elementor/widgets/team-member.php:263
+#: integrations/elementor/widgets/team-member.php:467
+#: integrations/elementor/widgets/team-member.php:618
+#: integrations/elementor/widgets/team-member.php:770
+#: integrations/elementor/widgets/text.php:226
+#: integrations/elementor/widgets/video.php:114
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:251
+#: integrations/elementor/widgets/posts.php:193
+msgid "Title Length"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:257
+#: integrations/elementor/widgets/collage-box.php:418
+#: integrations/elementor/widgets/countdown.php:521
+#: integrations/elementor/widgets/counter.php:630
+#: integrations/elementor/widgets/features-box.php:627
+#: integrations/elementor/widgets/gallery.php:415
+#: integrations/elementor/widgets/icon-list.php:674
+#: integrations/elementor/widgets/image-box.php:360
+#: integrations/elementor/widgets/image-carousel.php:436
+#: integrations/elementor/widgets/posts.php:401
+#: integrations/elementor/widgets/pricing.php:748
+#: integrations/elementor/widgets/reviews-carousel.php:339
+#: integrations/elementor/widgets/reviews-carousel.php:490
+#: integrations/elementor/widgets/team-member.php:628
+msgid "Title Extra Classes"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:326
+msgid "Content Extra Classes"
+msgstr ""
+
+#: inc/widgets/class-widget-posts.php:332
+#: integrations/elementor/widgets/blockquote.php:245
+#: integrations/elementor/widgets/collage-box.php:579
+#: integrations/elementor/widgets/counter.php:950
+#: integrations/elementor/widgets/features-box.php:788
+#: integrations/elementor/widgets/gallery.php:575
+#: integrations/elementor/widgets/icon-list.php:834
+#: integrations/elementor/widgets/image-box.php:521
+#: integrations/elementor/widgets/image-carousel.php:606
+#: integrations/elementor/widgets/posts.php:528
+#: integrations/elementor/widgets/reviews-carousel.php:650
+msgid "Content Wrap Extra Classes"
+msgstr ""
+
+#: inc/widgets/wph-widget-class.php:413
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/wph-widget-class.php:603
+msgid "Upload image"
+msgstr ""
+
+#: integrations/elementor/elementor.php:72
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: integrations/elementor/elementor.php:73
+msgid "Hub Elementor Addons"
+msgstr ""
+
+#: integrations/elementor/elementor.php:74
+msgid "Elementor"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:23
+msgid "Blockquote"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:51
+#: integrations/elementor/widgets/collage-box.php:95
+#: integrations/elementor/widgets/counter.php:210
+#: integrations/elementor/widgets/features-box.php:156
+#: integrations/elementor/widgets/icon-list.php:159
+#: integrations/elementor/widgets/image-box.php:95
+#: integrations/elementor/widgets/text.php:51
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:52
+#: integrations/elementor/widgets/collage-box.php:96
+#: integrations/elementor/widgets/counter.php:211
+#: integrations/elementor/widgets/features-box.php:157
+#: integrations/elementor/widgets/gallery.php:135
+#: integrations/elementor/widgets/heading.php:54
+#: integrations/elementor/widgets/icon-list.php:160
+#: integrations/elementor/widgets/image-box.php:96
+#: integrations/elementor/widgets/image-carousel.php:123
+#: integrations/elementor/widgets/reviews-carousel.php:57
+#: integrations/elementor/widgets/text.php:52
+msgid "Enter your content"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:62
+#: integrations/elementor/widgets/blog.php:132
+#: integrations/elementor/widgets/button.php:154
+#: integrations/elementor/widgets/collage-box.php:132
+#: integrations/elementor/widgets/countdown.php:103
+#: integrations/elementor/widgets/counter.php:268
+#: integrations/elementor/widgets/features-box.php:214
+#: integrations/elementor/widgets/gallery.php:180
+#: integrations/elementor/widgets/heading.php:194
+#: integrations/elementor/widgets/icon-list.php:178
+#: integrations/elementor/widgets/image-box.php:119
+#: integrations/elementor/widgets/image-carousel.php:141
+#: integrations/elementor/widgets/image.php:123
+#: integrations/elementor/widgets/portfolio.php:130
+#: integrations/elementor/widgets/posts.php:114
+#: integrations/elementor/widgets/pricing.php:316
+#: integrations/elementor/widgets/reviews-carousel.php:163
+#: integrations/elementor/widgets/social-icons.php:113
+#: integrations/elementor/widgets/team-member.php:204
+#: integrations/elementor/widgets/text.php:62
+#: integrations/elementor/widgets/video.php:137
+msgid "Animation"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:71
+#: integrations/elementor/widgets/blog.php:141
+#: integrations/elementor/widgets/button.php:164
+#: integrations/elementor/widgets/collage-box.php:141
+#: integrations/elementor/widgets/countdown.php:112
+#: integrations/elementor/widgets/counter.php:277
+#: integrations/elementor/widgets/features-box.php:223
+#: integrations/elementor/widgets/gallery.php:191
+#: integrations/elementor/widgets/heading.php:203
+#: integrations/elementor/widgets/icon-list.php:187
+#: integrations/elementor/widgets/image-box.php:128
+#: integrations/elementor/widgets/image-carousel.php:152
+#: integrations/elementor/widgets/image.php:131
+#: integrations/elementor/widgets/portfolio.php:139
+#: integrations/elementor/widgets/posts.php:123
+#: integrations/elementor/widgets/pricing.php:325
+#: integrations/elementor/widgets/reviews-carousel.php:174
+#: integrations/elementor/widgets/social-icons.php:124
+#: integrations/elementor/widgets/team-member.php:213
+#: integrations/elementor/widgets/text.php:71
+#: integrations/elementor/widgets/video.php:145
+msgid "Animation delay"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:73
+#: integrations/elementor/widgets/blog.php:143
+#: integrations/elementor/widgets/button.php:166
+#: integrations/elementor/widgets/collage-box.php:143
+#: integrations/elementor/widgets/countdown.php:114
+#: integrations/elementor/widgets/counter.php:279
+#: integrations/elementor/widgets/features-box.php:225
+#: integrations/elementor/widgets/gallery.php:193
+#: integrations/elementor/widgets/heading.php:205
+#: integrations/elementor/widgets/icon-list.php:189
+#: integrations/elementor/widgets/image-box.php:130
+#: integrations/elementor/widgets/image-carousel.php:154
+#: integrations/elementor/widgets/image.php:133
+#: integrations/elementor/widgets/portfolio.php:141
+#: integrations/elementor/widgets/posts.php:125
+#: integrations/elementor/widgets/pricing.php:327
+#: integrations/elementor/widgets/reviews-carousel.php:176
+#: integrations/elementor/widgets/social-icons.php:126
+#: integrations/elementor/widgets/team-member.php:215
+#: integrations/elementor/widgets/text.php:73
+#: integrations/elementor/widgets/video.php:147
+msgid "0"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:75
+#: integrations/elementor/widgets/blog.php:145
+#: integrations/elementor/widgets/button.php:168
+#: integrations/elementor/widgets/collage-box.php:145
+#: integrations/elementor/widgets/countdown.php:116
+#: integrations/elementor/widgets/counter.php:281
+#: integrations/elementor/widgets/features-box.php:227
+#: integrations/elementor/widgets/gallery.php:195
+#: integrations/elementor/widgets/heading.php:207
+#: integrations/elementor/widgets/icon-list.php:191
+#: integrations/elementor/widgets/image-box.php:132
+#: integrations/elementor/widgets/image-carousel.php:156
+#: integrations/elementor/widgets/image.php:135
+#: integrations/elementor/widgets/portfolio.php:143
+#: integrations/elementor/widgets/posts.php:127
+#: integrations/elementor/widgets/pricing.php:329
+#: integrations/elementor/widgets/reviews-carousel.php:178
+#: integrations/elementor/widgets/social-icons.php:128
+#: integrations/elementor/widgets/team-member.php:217
+#: integrations/elementor/widgets/text.php:75
+#: integrations/elementor/widgets/video.php:149
+msgid "Add animation delay like 800ms,0.4s."
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:85
+#: integrations/elementor/widgets/blockquote.php:236
+#: integrations/elementor/widgets/blog.php:155
+#: integrations/elementor/widgets/button.php:178
+#: integrations/elementor/widgets/collage-box.php:155
+#: integrations/elementor/widgets/collage-box.php:222
+#: integrations/elementor/widgets/collage-box.php:267
+#: integrations/elementor/widgets/collage-box.php:570
+#: integrations/elementor/widgets/countdown.php:126
+#: integrations/elementor/widgets/counter.php:291
+#: integrations/elementor/widgets/counter.php:790
+#: integrations/elementor/widgets/counter.php:941
+#: integrations/elementor/widgets/features-box.php:237
+#: integrations/elementor/widgets/features-box.php:779
+#: integrations/elementor/widgets/gallery.php:206
+#: integrations/elementor/widgets/gallery.php:264
+#: integrations/elementor/widgets/gallery.php:566
+#: integrations/elementor/widgets/heading.php:217
+#: integrations/elementor/widgets/icon-list.php:201
+#: integrations/elementor/widgets/icon-list.php:825
+#: integrations/elementor/widgets/image-box.php:142
+#: integrations/elementor/widgets/image-box.php:209
+#: integrations/elementor/widgets/image-box.php:512
+#: integrations/elementor/widgets/image-carousel.php:166
+#: integrations/elementor/widgets/image-carousel.php:285
+#: integrations/elementor/widgets/image-carousel.php:597
+#: integrations/elementor/widgets/image.php:145
+#: integrations/elementor/widgets/portfolio.php:153
+#: integrations/elementor/widgets/posts.php:137
+#: integrations/elementor/widgets/posts.php:519
+#: integrations/elementor/widgets/pricing.php:339
+#: integrations/elementor/widgets/pricing.php:899
+#: integrations/elementor/widgets/pricing.php:1059
+#: integrations/elementor/widgets/pricing.php:1219
+#: integrations/elementor/widgets/pricing.php:1370
+#: integrations/elementor/widgets/pricing.php:1656
+#: integrations/elementor/widgets/reviews-carousel.php:188
+#: integrations/elementor/widgets/reviews-carousel.php:641
+#: integrations/elementor/widgets/social-icons.php:138
+#: integrations/elementor/widgets/team-member.php:227
+#: integrations/elementor/widgets/team-member.php:780
+#: integrations/elementor/widgets/text.php:85
+#: integrations/elementor/widgets/text.php:236
+#: integrations/elementor/widgets/video.php:159
+msgid "Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:138
+#: integrations/elementor/widgets/collage-box.php:320
+#: integrations/elementor/widgets/collage-box.php:472
+#: integrations/elementor/widgets/countdown.php:271
+#: integrations/elementor/widgets/countdown.php:423
+#: integrations/elementor/widgets/counter.php:532
+#: integrations/elementor/widgets/counter.php:692
+#: integrations/elementor/widgets/counter.php:843
+#: integrations/elementor/widgets/features-box.php:529
+#: integrations/elementor/widgets/features-box.php:681
+#: integrations/elementor/widgets/gallery.php:317
+#: integrations/elementor/widgets/gallery.php:468
+#: integrations/elementor/widgets/heading.php:96
+#: integrations/elementor/widgets/icon-list.php:576
+#: integrations/elementor/widgets/icon-list.php:727
+#: integrations/elementor/widgets/image-box.php:262
+#: integrations/elementor/widgets/image-box.php:414
+#: integrations/elementor/widgets/image-carousel.php:338
+#: integrations/elementor/widgets/image-carousel.php:499
+#: integrations/elementor/widgets/posts.php:455
+#: integrations/elementor/widgets/pricing.php:650
+#: integrations/elementor/widgets/pricing.php:801
+#: integrations/elementor/widgets/pricing.php:961
+#: integrations/elementor/widgets/pricing.php:1121
+#: integrations/elementor/widgets/pricing.php:1272
+#: integrations/elementor/widgets/reviews-carousel.php:241
+#: integrations/elementor/widgets/reviews-carousel.php:392
+#: integrations/elementor/widgets/reviews-carousel.php:543
+#: integrations/elementor/widgets/team-member.php:379
+#: integrations/elementor/widgets/team-member.php:530
+#: integrations/elementor/widgets/team-member.php:682
+#: integrations/elementor/widgets/text.php:138
+msgid "Custom Font Size"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:140
+#: integrations/elementor/widgets/button.php:258
+#: integrations/elementor/widgets/collage-box.php:322
+#: integrations/elementor/widgets/collage-box.php:474
+#: integrations/elementor/widgets/countdown.php:273
+#: integrations/elementor/widgets/countdown.php:425
+#: integrations/elementor/widgets/counter.php:534
+#: integrations/elementor/widgets/counter.php:694
+#: integrations/elementor/widgets/counter.php:845
+#: integrations/elementor/widgets/features-box.php:531
+#: integrations/elementor/widgets/features-box.php:683
+#: integrations/elementor/widgets/gallery.php:319
+#: integrations/elementor/widgets/gallery.php:470
+#: integrations/elementor/widgets/heading.php:98
+#: integrations/elementor/widgets/icon-list.php:578
+#: integrations/elementor/widgets/icon-list.php:729
+#: integrations/elementor/widgets/image-box.php:264
+#: integrations/elementor/widgets/image-box.php:416
+#: integrations/elementor/widgets/image-carousel.php:340
+#: integrations/elementor/widgets/image-carousel.php:501
+#: integrations/elementor/widgets/posts.php:457
+#: integrations/elementor/widgets/pricing.php:652
+#: integrations/elementor/widgets/pricing.php:803
+#: integrations/elementor/widgets/pricing.php:963
+#: integrations/elementor/widgets/pricing.php:1123
+#: integrations/elementor/widgets/pricing.php:1274
+#: integrations/elementor/widgets/pricing.php:1421
+#: integrations/elementor/widgets/reviews-carousel.php:243
+#: integrations/elementor/widgets/reviews-carousel.php:394
+#: integrations/elementor/widgets/reviews-carousel.php:545
+#: integrations/elementor/widgets/team-member.php:381
+#: integrations/elementor/widgets/team-member.php:532
+#: integrations/elementor/widgets/team-member.php:684
+#: integrations/elementor/widgets/text.php:140
+msgid "1em"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:141
+#: integrations/elementor/widgets/button.php:259
+#: integrations/elementor/widgets/button.php:480
+#: integrations/elementor/widgets/collage-box.php:323
+#: integrations/elementor/widgets/collage-box.php:475
+#: integrations/elementor/widgets/countdown.php:194
+#: integrations/elementor/widgets/countdown.php:274
+#: integrations/elementor/widgets/countdown.php:426
+#: integrations/elementor/widgets/counter.php:373
+#: integrations/elementor/widgets/counter.php:480
+#: integrations/elementor/widgets/counter.php:535
+#: integrations/elementor/widgets/counter.php:695
+#: integrations/elementor/widgets/counter.php:846
+#: integrations/elementor/widgets/features-box.php:319
+#: integrations/elementor/widgets/features-box.php:467
+#: integrations/elementor/widgets/features-box.php:532
+#: integrations/elementor/widgets/features-box.php:684
+#: integrations/elementor/widgets/gallery.php:320
+#: integrations/elementor/widgets/gallery.php:471
+#: integrations/elementor/widgets/heading.php:99
+#: integrations/elementor/widgets/icon-list.php:225
+#: integrations/elementor/widgets/icon-list.php:331
+#: integrations/elementor/widgets/icon-list.php:397
+#: integrations/elementor/widgets/icon-list.php:523
+#: integrations/elementor/widgets/icon-list.php:579
+#: integrations/elementor/widgets/icon-list.php:730
+#: integrations/elementor/widgets/image-box.php:265
+#: integrations/elementor/widgets/image-box.php:417
+#: integrations/elementor/widgets/image-carousel.php:341
+#: integrations/elementor/widgets/image-carousel.php:502
+#: integrations/elementor/widgets/posts.php:458
+#: integrations/elementor/widgets/pricing.php:443
+#: integrations/elementor/widgets/pricing.php:589
+#: integrations/elementor/widgets/pricing.php:653
+#: integrations/elementor/widgets/pricing.php:804
+#: integrations/elementor/widgets/pricing.php:964
+#: integrations/elementor/widgets/pricing.php:1124
+#: integrations/elementor/widgets/pricing.php:1275
+#: integrations/elementor/widgets/pricing.php:1422
+#: integrations/elementor/widgets/reviews-carousel.php:244
+#: integrations/elementor/widgets/reviews-carousel.php:395
+#: integrations/elementor/widgets/reviews-carousel.php:546
+#: integrations/elementor/widgets/social-icons.php:214
+#: integrations/elementor/widgets/team-member.php:277
+#: integrations/elementor/widgets/team-member.php:382
+#: integrations/elementor/widgets/team-member.php:533
+#: integrations/elementor/widgets/team-member.php:685
+#: integrations/elementor/widgets/team-member.php:834
+#: integrations/elementor/widgets/text.php:141
+msgid "You can add size in (px,em,rem,%)"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:192
+#: integrations/elementor/widgets/button.php:498
+#: integrations/elementor/widgets/collage-box.php:374
+#: integrations/elementor/widgets/collage-box.php:526
+#: integrations/elementor/widgets/countdown.php:325
+#: integrations/elementor/widgets/countdown.php:477
+#: integrations/elementor/widgets/counter.php:394
+#: integrations/elementor/widgets/counter.php:586
+#: integrations/elementor/widgets/counter.php:746
+#: integrations/elementor/widgets/counter.php:897
+#: integrations/elementor/widgets/features-box.php:583
+#: integrations/elementor/widgets/features-box.php:735
+#: integrations/elementor/widgets/gallery.php:371
+#: integrations/elementor/widgets/gallery.php:522
+#: integrations/elementor/widgets/heading.php:150
+#: integrations/elementor/widgets/icon-list.php:285
+#: integrations/elementor/widgets/icon-list.php:360
+#: integrations/elementor/widgets/icon-list.php:630
+#: integrations/elementor/widgets/icon-list.php:781
+#: integrations/elementor/widgets/image-box.php:316
+#: integrations/elementor/widgets/image-box.php:468
+#: integrations/elementor/widgets/image-carousel.php:392
+#: integrations/elementor/widgets/image-carousel.php:553
+#: integrations/elementor/widgets/pricing.php:704
+#: integrations/elementor/widgets/pricing.php:855
+#: integrations/elementor/widgets/pricing.php:1015
+#: integrations/elementor/widgets/pricing.php:1175
+#: integrations/elementor/widgets/pricing.php:1326
+#: integrations/elementor/widgets/reviews-carousel.php:295
+#: integrations/elementor/widgets/reviews-carousel.php:446
+#: integrations/elementor/widgets/reviews-carousel.php:597
+#: integrations/elementor/widgets/team-member.php:433
+#: integrations/elementor/widgets/team-member.php:584
+#: integrations/elementor/widgets/team-member.php:736
+#: integrations/elementor/widgets/text.php:192
+msgid "Custom Color"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:204
+#: integrations/elementor/widgets/button.php:300
+#: integrations/elementor/widgets/collage-box.php:386
+#: integrations/elementor/widgets/collage-box.php:538
+#: integrations/elementor/widgets/countdown.php:337
+#: integrations/elementor/widgets/countdown.php:489
+#: integrations/elementor/widgets/counter.php:598
+#: integrations/elementor/widgets/counter.php:758
+#: integrations/elementor/widgets/counter.php:909
+#: integrations/elementor/widgets/features-box.php:595
+#: integrations/elementor/widgets/features-box.php:747
+#: integrations/elementor/widgets/gallery.php:383
+#: integrations/elementor/widgets/gallery.php:534
+#: integrations/elementor/widgets/heading.php:162
+#: integrations/elementor/widgets/icon-list.php:642
+#: integrations/elementor/widgets/icon-list.php:793
+#: integrations/elementor/widgets/image-box.php:328
+#: integrations/elementor/widgets/image-box.php:480
+#: integrations/elementor/widgets/image-carousel.php:404
+#: integrations/elementor/widgets/image-carousel.php:565
+#: integrations/elementor/widgets/pricing.php:716
+#: integrations/elementor/widgets/pricing.php:867
+#: integrations/elementor/widgets/pricing.php:1027
+#: integrations/elementor/widgets/pricing.php:1187
+#: integrations/elementor/widgets/pricing.php:1338
+#: integrations/elementor/widgets/pricing.php:1463
+#: integrations/elementor/widgets/reviews-carousel.php:307
+#: integrations/elementor/widgets/reviews-carousel.php:458
+#: integrations/elementor/widgets/reviews-carousel.php:609
+#: integrations/elementor/widgets/team-member.php:445
+#: integrations/elementor/widgets/team-member.php:596
+#: integrations/elementor/widgets/team-member.php:748
+#: integrations/elementor/widgets/text.php:204
+msgid "Line Height"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:207
+#: integrations/elementor/widgets/button.php:303
+#: integrations/elementor/widgets/collage-box.php:389
+#: integrations/elementor/widgets/collage-box.php:541
+#: integrations/elementor/widgets/countdown.php:340
+#: integrations/elementor/widgets/countdown.php:492
+#: integrations/elementor/widgets/counter.php:601
+#: integrations/elementor/widgets/counter.php:761
+#: integrations/elementor/widgets/counter.php:912
+#: integrations/elementor/widgets/features-box.php:598
+#: integrations/elementor/widgets/features-box.php:750
+#: integrations/elementor/widgets/gallery.php:386
+#: integrations/elementor/widgets/gallery.php:537
+#: integrations/elementor/widgets/heading.php:165
+#: integrations/elementor/widgets/icon-list.php:645
+#: integrations/elementor/widgets/icon-list.php:796
+#: integrations/elementor/widgets/image-box.php:331
+#: integrations/elementor/widgets/image-box.php:483
+#: integrations/elementor/widgets/image-carousel.php:407
+#: integrations/elementor/widgets/image-carousel.php:568
+#: integrations/elementor/widgets/pricing.php:719
+#: integrations/elementor/widgets/pricing.php:870
+#: integrations/elementor/widgets/pricing.php:1030
+#: integrations/elementor/widgets/pricing.php:1190
+#: integrations/elementor/widgets/pricing.php:1341
+#: integrations/elementor/widgets/pricing.php:1466
+#: integrations/elementor/widgets/reviews-carousel.php:310
+#: integrations/elementor/widgets/reviews-carousel.php:461
+#: integrations/elementor/widgets/reviews-carousel.php:612
+#: integrations/elementor/widgets/team-member.php:448
+#: integrations/elementor/widgets/team-member.php:599
+#: integrations/elementor/widgets/team-member.php:751
+#: integrations/elementor/widgets/text.php:207
+msgid "You can add letter spacing in (px,em,rem,%)"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:215
+#: integrations/elementor/widgets/button.php:311
+#: integrations/elementor/widgets/collage-box.php:397
+#: integrations/elementor/widgets/collage-box.php:549
+#: integrations/elementor/widgets/countdown.php:348
+#: integrations/elementor/widgets/countdown.php:500
+#: integrations/elementor/widgets/counter.php:609
+#: integrations/elementor/widgets/counter.php:769
+#: integrations/elementor/widgets/counter.php:920
+#: integrations/elementor/widgets/features-box.php:606
+#: integrations/elementor/widgets/features-box.php:758
+#: integrations/elementor/widgets/gallery.php:394
+#: integrations/elementor/widgets/gallery.php:545
+#: integrations/elementor/widgets/heading.php:173
+#: integrations/elementor/widgets/icon-list.php:653
+#: integrations/elementor/widgets/icon-list.php:804
+#: integrations/elementor/widgets/image-box.php:339
+#: integrations/elementor/widgets/image-box.php:491
+#: integrations/elementor/widgets/image-carousel.php:415
+#: integrations/elementor/widgets/image-carousel.php:576
+#: integrations/elementor/widgets/pricing.php:727
+#: integrations/elementor/widgets/pricing.php:878
+#: integrations/elementor/widgets/pricing.php:1038
+#: integrations/elementor/widgets/pricing.php:1198
+#: integrations/elementor/widgets/pricing.php:1349
+#: integrations/elementor/widgets/pricing.php:1474
+#: integrations/elementor/widgets/reviews-carousel.php:318
+#: integrations/elementor/widgets/reviews-carousel.php:469
+#: integrations/elementor/widgets/reviews-carousel.php:620
+#: integrations/elementor/widgets/team-member.php:456
+#: integrations/elementor/widgets/team-member.php:607
+#: integrations/elementor/widgets/team-member.php:759
+#: integrations/elementor/widgets/text.php:215
+msgid "Letter Spacing"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:218
+#: integrations/elementor/widgets/button.php:314
+#: integrations/elementor/widgets/collage-box.php:400
+#: integrations/elementor/widgets/collage-box.php:552
+#: integrations/elementor/widgets/countdown.php:351
+#: integrations/elementor/widgets/countdown.php:503
+#: integrations/elementor/widgets/counter.php:612
+#: integrations/elementor/widgets/counter.php:772
+#: integrations/elementor/widgets/counter.php:923
+#: integrations/elementor/widgets/features-box.php:609
+#: integrations/elementor/widgets/features-box.php:761
+#: integrations/elementor/widgets/gallery.php:397
+#: integrations/elementor/widgets/gallery.php:548
+#: integrations/elementor/widgets/heading.php:176
+#: integrations/elementor/widgets/icon-list.php:656
+#: integrations/elementor/widgets/icon-list.php:807
+#: integrations/elementor/widgets/image-box.php:342
+#: integrations/elementor/widgets/image-box.php:494
+#: integrations/elementor/widgets/image-carousel.php:418
+#: integrations/elementor/widgets/image-carousel.php:579
+#: integrations/elementor/widgets/pricing.php:730
+#: integrations/elementor/widgets/pricing.php:881
+#: integrations/elementor/widgets/pricing.php:1041
+#: integrations/elementor/widgets/pricing.php:1201
+#: integrations/elementor/widgets/pricing.php:1352
+#: integrations/elementor/widgets/pricing.php:1477
+#: integrations/elementor/widgets/reviews-carousel.php:321
+#: integrations/elementor/widgets/reviews-carousel.php:472
+#: integrations/elementor/widgets/reviews-carousel.php:623
+#: integrations/elementor/widgets/team-member.php:459
+#: integrations/elementor/widgets/team-member.php:610
+#: integrations/elementor/widgets/team-member.php:762
+#: integrations/elementor/widgets/text.php:218
+msgid "You can add spacing in (px,em,rem,%)"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:258
+#: integrations/elementor/widgets/button.php:555
+#: integrations/elementor/widgets/collage-box.php:592
+#: integrations/elementor/widgets/countdown.php:534
+#: integrations/elementor/widgets/counter.php:963
+#: integrations/elementor/widgets/features-box.php:801
+#: integrations/elementor/widgets/gallery.php:671
+#: integrations/elementor/widgets/icon-list.php:847
+#: integrations/elementor/widgets/image-box.php:534
+#: integrations/elementor/widgets/image-carousel.php:749
+#: integrations/elementor/widgets/pricing.php:1669
+#: integrations/elementor/widgets/reviews-carousel.php:877
+#: integrations/elementor/widgets/social-icons.php:345
+#: integrations/elementor/widgets/team-member.php:985
+#: integrations/elementor/widgets/text.php:249
+msgid "Advanced"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:266
+#: integrations/elementor/widgets/button.php:563
+#: integrations/elementor/widgets/collage-box.php:600
+#: integrations/elementor/widgets/countdown.php:542
+#: integrations/elementor/widgets/counter.php:971
+#: integrations/elementor/widgets/features-box.php:809
+#: integrations/elementor/widgets/gallery.php:679
+#: integrations/elementor/widgets/icon-list.php:855
+#: integrations/elementor/widgets/image-box.php:542
+#: integrations/elementor/widgets/image-carousel.php:757
+#: integrations/elementor/widgets/reviews-carousel.php:885
+#: integrations/elementor/widgets/team-member.php:993
+#: integrations/elementor/widgets/text.php:257
+msgid "Wrap ID"
+msgstr ""
+
+#: integrations/elementor/widgets/blockquote.php:275
+#: integrations/elementor/widgets/button.php:572
+#: integrations/elementor/widgets/collage-box.php:609
+#: integrations/elementor/widgets/countdown.php:551
+#: integrations/elementor/widgets/counter.php:980
+#: integrations/elementor/widgets/features-box.php:818
+#: integrations/elementor/widgets/gallery.php:688
+#: integrations/elementor/widgets/heading.php:226
+#: integrations/elementor/widgets/icon-list.php:864
+#: integrations/elementor/widgets/image-box.php:551
+#: integrations/elementor/widgets/image-carousel.php:766
+#: integrations/elementor/widgets/image.php:154
+#: integrations/elementor/widgets/pricing.php:1068
+#: integrations/elementor/widgets/pricing.php:1686
+#: integrations/elementor/widgets/reviews-carousel.php:894
+#: integrations/elementor/widgets/social-icons.php:362
+#: integrations/elementor/widgets/team-member.php:1002
+#: integrations/elementor/widgets/text.php:266
+#: integrations/elementor/widgets/video.php:168
+msgid "Wrap Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:30
+msgid "Blog"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:59
+msgid "Modern"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:83
+#: integrations/elementor/widgets/icon-list.php:24
+msgid "List"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:168
+msgid "Blog Setttings"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:199
+#: integrations/elementor/widgets/portfolio.php:195
+msgid "Show Fancy Date"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:296
+#: integrations/elementor/widgets/portfolio.php:288
+msgid "Slider Settings"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:309
+#: integrations/elementor/widgets/button.php:130
+#: integrations/elementor/widgets/counter.php:126
+#: integrations/elementor/widgets/features-box.php:126
+#: integrations/elementor/widgets/image-carousel.php:630
+#: integrations/elementor/widgets/portfolio.php:301
+#: integrations/elementor/widgets/pricing.php:138
+#: integrations/elementor/widgets/reviews-carousel.php:794
+msgid "1"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:310
+#: integrations/elementor/widgets/image-carousel.php:631
+#: integrations/elementor/widgets/portfolio.php:302
+#: integrations/elementor/widgets/reviews-carousel.php:795
+msgid "2"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:311
+#: integrations/elementor/widgets/image-carousel.php:632
+#: integrations/elementor/widgets/portfolio.php:303
+#: integrations/elementor/widgets/reviews-carousel.php:796
+msgid "3"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:312
+#: integrations/elementor/widgets/image-carousel.php:633
+#: integrations/elementor/widgets/portfolio.php:304
+#: integrations/elementor/widgets/reviews-carousel.php:797
+msgid "4"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:321
+#: integrations/elementor/widgets/image-carousel.php:648
+#: integrations/elementor/widgets/portfolio.php:313
+#: integrations/elementor/widgets/reviews-carousel.php:812
+msgid "Navigation buttons"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:333
+#: integrations/elementor/widgets/portfolio.php:325
+msgid "Navigation Style"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:349
+#: integrations/elementor/widgets/portfolio.php:341
+msgid "Navigation Position"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:365
+#: integrations/elementor/widgets/portfolio.php:357
+msgid "Loop"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:377
+#: integrations/elementor/widgets/image-carousel.php:672
+#: integrations/elementor/widgets/portfolio.php:369
+#: integrations/elementor/widgets/reviews-carousel.php:836
+msgid "Dots"
+msgstr ""
+
+#: integrations/elementor/widgets/blog.php:405
+#: integrations/elementor/widgets/gallery.php:588
+#: integrations/elementor/widgets/portfolio.php:395
+#: integrations/elementor/widgets/reviews-carousel.php:696
+msgid "Responsive"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:44
+#: integrations/elementor/widgets/counter.php:49
+#: integrations/elementor/widgets/features-box.php:49
+#: integrations/elementor/widgets/icon-list.php:51
+#: integrations/elementor/widgets/pricing.php:61
+msgid "Icon Type"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:60
+#: integrations/elementor/widgets/pricing.php:293
+msgid "Button Text"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:62
+msgid "Let's Started"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:70
+#: integrations/elementor/widgets/counter.php:66
+#: integrations/elementor/widgets/features-box.php:66
+#: integrations/elementor/widgets/icon-list.php:70
+#: integrations/elementor/widgets/pricing.php:78
+msgid "Flat Icon"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:128
+#: integrations/elementor/widgets/counter.php:124
+#: integrations/elementor/widgets/features-box.php:124
+#: integrations/elementor/widgets/pricing.php:136
+msgid "Icon Text"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:143
+#: integrations/elementor/widgets/counter.php:223
+#: integrations/elementor/widgets/features-box.php:169
+#: integrations/elementor/widgets/gallery.php:110
+#: integrations/elementor/widgets/icon-list.php:143
+#: integrations/elementor/widgets/image-box.php:108
+#: integrations/elementor/widgets/image-carousel.php:98
+#: integrations/elementor/widgets/image.php:112
+#: integrations/elementor/widgets/pricing.php:305
+#: integrations/elementor/widgets/social-icons.php:93
+#: integrations/elementor/widgets/team-member.php:170
+#: integrations/elementor/widgets/team-member.php:193
+#: integrations/elementor/widgets/video.php:126
+msgid "//your-link.com"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:202
+#: integrations/elementor/widgets/pricing.php:1394
+msgid "Flat"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:203
+#: integrations/elementor/widgets/pricing.php:1395
+msgid "Line"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:204
+#: integrations/elementor/widgets/pricing.php:1396
+msgid "Outline"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:205
+#: integrations/elementor/widgets/pricing.php:1397
+msgid "Underline"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:216
+#: integrations/elementor/widgets/icon-list.php:243
+msgid "Vertical Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:236
+msgid "Button Normal"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:245
+#: integrations/elementor/widgets/pricing.php:1408
+msgid "Size"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:256
+#: integrations/elementor/widgets/pricing.php:1419
+msgid "Custom Size"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:322
+msgid "Text Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:332
+msgid "Border Style"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:338
+#: integrations/elementor/widgets/pricing.php:1501
+msgid "Round"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:347
+msgid "Border Radius"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:364
+#: integrations/elementor/widgets/pricing.php:1509
+msgid "Button Color"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:374
+#: integrations/elementor/widgets/button.php:429
+#: integrations/elementor/widgets/button.php:510
+#: integrations/elementor/widgets/counter.php:406
+#: integrations/elementor/widgets/pricing.php:1554
+#: integrations/elementor/widgets/pricing.php:1620
+#: integrations/elementor/widgets/social-icons.php:232
+#: integrations/elementor/widgets/social-icons.php:287
+#: integrations/elementor/widgets/team-member.php:304
+#: integrations/elementor/widgets/team-member.php:852
+#: integrations/elementor/widgets/team-member.php:907
+msgid "Background Color"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:386
+#: integrations/elementor/widgets/button.php:441
+#: integrations/elementor/widgets/pricing.php:1566
+#: integrations/elementor/widgets/pricing.php:1632
+#: integrations/elementor/widgets/social-icons.php:244
+#: integrations/elementor/widgets/social-icons.php:299
+#: integrations/elementor/widgets/team-member.php:864
+#: integrations/elementor/widgets/team-member.php:919
+msgid "Text Color"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:398
+#: integrations/elementor/widgets/button.php:453
+#: integrations/elementor/widgets/pricing.php:1578
+#: integrations/elementor/widgets/pricing.php:1644
+#: integrations/elementor/widgets/social-icons.php:256
+#: integrations/elementor/widgets/social-icons.php:311
+#: integrations/elementor/widgets/team-member.php:876
+#: integrations/elementor/widgets/team-member.php:931
+msgid "Border Color"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:410
+#: integrations/elementor/widgets/pricing.php:1590
+#: integrations/elementor/widgets/social-icons.php:268
+#: integrations/elementor/widgets/team-member.php:888
+msgid "Button Hover"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:419
+#: integrations/elementor/widgets/pricing.php:1599
+#: integrations/elementor/widgets/social-icons.php:277
+#: integrations/elementor/widgets/team-member.php:897
+msgid "Button Hover Color"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:477
+#: integrations/elementor/widgets/counter.php:357
+#: integrations/elementor/widgets/features-box.php:303
+#: integrations/elementor/widgets/icon-list.php:381
+#: integrations/elementor/widgets/pricing.php:440
+#: integrations/elementor/widgets/social-icons.php:211
+#: integrations/elementor/widgets/team-member.php:831
+msgid "Icon Size"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:520
+#: integrations/elementor/widgets/counter.php:416
+#: integrations/elementor/widgets/team-member.php:314
+msgid "Background Color Custom"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:532
+#: integrations/elementor/widgets/counter.php:428
+#: integrations/elementor/widgets/features-box.php:374
+#: integrations/elementor/widgets/icon-list.php:452
+#: integrations/elementor/widgets/pricing.php:528
+#: integrations/elementor/widgets/team-member.php:943
+msgid "Icon Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/button.php:542
+#: integrations/elementor/widgets/counter.php:438
+#: integrations/elementor/widgets/features-box.php:394
+#: integrations/elementor/widgets/icon-list.php:472
+#: integrations/elementor/widgets/pricing.php:538
+#: integrations/elementor/widgets/social-icons.php:323
+#: integrations/elementor/widgets/team-member.php:963
+msgid "Icon Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:24
+#: integrations/elementor/widgets/collage-box.php:40
+msgid "Collage Box"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:61
+#: integrations/elementor/widgets/collage-box.php:235
+msgid "Content Background Image"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:80
+#: integrations/elementor/widgets/counter.php:195
+#: integrations/elementor/widgets/image-box.php:80
+msgid "This is the heading"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:81
+#: integrations/elementor/widgets/counter.php:196
+#: integrations/elementor/widgets/features-box.php:142
+#: integrations/elementor/widgets/gallery.php:124
+#: integrations/elementor/widgets/image-box.php:81
+#: integrations/elementor/widgets/image-carousel.php:112
+#: integrations/elementor/widgets/reviews-carousel.php:78
+msgid "Enter your title"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:118
+msgid "Open in new window"
+msgstr ""
+
+#: integrations/elementor/widgets/collage-box.php:210
+#: integrations/elementor/widgets/features-box.php:452
+#: integrations/elementor/widgets/gallery.php:252
+#: integrations/elementor/widgets/image-box.php:197
+#: integrations/elementor/widgets/image-carousel.php:260
+msgid "Hover Overlay Effect"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:26
+#: integrations/elementor/widgets/countdown.php:42
+msgid "Countdown"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:49
+msgid "Launch Date"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:52
+msgid "2031/09/31 20:00:00"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:59
+msgid "Days Text"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:62
+msgid "DAYS"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:70
+msgid "Hours Text"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:73
+msgid "HRS"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:81
+msgid "Mins Text"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:84
+msgid "MIN"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:92
+msgid "Secs Text"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:95
+msgid "SEC"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:157
+msgid "Show Counter Devider"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:173
+#: integrations/elementor/widgets/icon-list.php:310
+msgid "Devider"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:191
+#: integrations/elementor/widgets/icon-list.php:328
+msgid "Devider Size"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:202
+#: integrations/elementor/widgets/icon-list.php:342
+msgid "Devider Style"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:207
+#: integrations/elementor/widgets/icon-list.php:347
+msgid "Solid"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:208
+#: integrations/elementor/widgets/icon-list.php:348
+msgid "dotted"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:209
+#: integrations/elementor/widgets/icon-list.php:349
+msgid "dashed"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:218
+msgid "Devider Custom Color"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:231
+#: integrations/elementor/widgets/counter.php:137
+msgid "Number"
+msgstr ""
+
+#: integrations/elementor/widgets/countdown.php:369
+msgid "Number Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:26
+#: integrations/elementor/widgets/counter.php:42
+msgid "Counter"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:151
+msgid "Number Prefix"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:164
+msgid "Number Sufix"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:177
+msgid "Animation Duration"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:234
+#: integrations/elementor/widgets/features-box.php:180
+msgid "Icon Position"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:326
+#: integrations/elementor/widgets/features-box.php:272
+#: integrations/elementor/widgets/pricing.php:408
+#: integrations/elementor/widgets/social-icons.php:185
+#: integrations/elementor/widgets/team-member.php:805
+msgid "Stacked"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:327
+#: integrations/elementor/widgets/features-box.php:273
+#: integrations/elementor/widgets/pricing.php:409
+#: integrations/elementor/widgets/social-icons.php:186
+#: integrations/elementor/widgets/team-member.php:806
+msgid "Framed"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:339
+#: integrations/elementor/widgets/social-icons.php:195
+#: integrations/elementor/widgets/team-member.php:815
+msgid "Shape"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:342
+#: integrations/elementor/widgets/features-box.php:288
+#: integrations/elementor/widgets/pricing.php:425
+#: integrations/elementor/widgets/social-icons.php:198
+#: integrations/elementor/widgets/team-member.php:818
+msgid "Circle"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:343
+#: integrations/elementor/widgets/features-box.php:289
+#: integrations/elementor/widgets/pricing.php:426
+#: integrations/elementor/widgets/social-icons.php:199
+#: integrations/elementor/widgets/team-member.php:819
+msgid "Square"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:370
+#: integrations/elementor/widgets/features-box.php:316
+#: integrations/elementor/widgets/icon-list.php:394
+msgid "Icon Size Custom"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:372
+#: integrations/elementor/widgets/features-box.php:318
+#: integrations/elementor/widgets/icon-list.php:396
+msgid "65px"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:477
+#: integrations/elementor/widgets/features-box.php:464
+#: integrations/elementor/widgets/icon-list.php:520
+#: integrations/elementor/widgets/pricing.php:586
+#: integrations/elementor/widgets/team-member.php:274
+msgid "Image Below Padding"
+msgstr ""
+
+#: integrations/elementor/widgets/counter.php:643
+#: integrations/elementor/widgets/counter.php:651
+msgid "Counter Number"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:26
+#: integrations/elementor/widgets/features-box.php:42
+msgid "Features Box"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:268
+#: integrations/elementor/widgets/pricing.php:404
+msgid "Icon View"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:285
+#: integrations/elementor/widgets/pricing.php:422
+msgid "Icon Shape"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:330
+#: integrations/elementor/widgets/icon-list.php:408
+#: integrations/elementor/widgets/pricing.php:372
+#: integrations/elementor/widgets/pricing.php:484
+#: integrations/elementor/widgets/social-icons.php:222
+#: integrations/elementor/widgets/team-member.php:842
+msgid "Icon Color"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:340
+#: integrations/elementor/widgets/icon-list.php:418
+#: integrations/elementor/widgets/pricing.php:494
+msgid "Icon Custom Color"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:352
+#: integrations/elementor/widgets/icon-list.php:430
+#: integrations/elementor/widgets/pricing.php:506
+msgid "Icon Background Color"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:362
+#: integrations/elementor/widgets/icon-list.php:440
+#: integrations/elementor/widgets/pricing.php:516
+msgid "Icon Background Color Custom"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:384
+#: integrations/elementor/widgets/icon-list.php:462
+#: integrations/elementor/widgets/team-member.php:953
+msgid "Vertical Icon Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:403
+#: integrations/elementor/widgets/icon-list.php:481
+#: integrations/elementor/widgets/pricing.php:547
+#: integrations/elementor/widgets/social-icons.php:332
+#: integrations/elementor/widgets/team-member.php:972
+msgid "Icon Wrap Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/features-box.php:475
+#: integrations/elementor/widgets/pricing.php:597
+#: integrations/elementor/widgets/team-member.php:285
+msgid "Image Wrap Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:29
+#: integrations/elementor/widgets/gallery.php:45
+msgid "Gallery"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:52
+msgid "Gallery Style"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:55
+msgid "Grid ( Default )"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:56
+msgid "Masonry"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:69
+#: integrations/elementor/widgets/image-box.php:51
+#: integrations/elementor/widgets/image-carousel.php:57
+msgid "Style - 1"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:70
+#: integrations/elementor/widgets/image-box.php:52
+#: integrations/elementor/widgets/image-carousel.php:58
+#: integrations/elementor/widgets/reviews-carousel.php:140
+msgid "Style - 2"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:98
+#: integrations/elementor/widgets/image-carousel.php:86
+#: integrations/elementor/widgets/reviews-carousel.php:93
+#: integrations/elementor/widgets/social-icons.php:78
+#: integrations/elementor/widgets/team-member.php:155
+msgid "Image alternative text"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:144
+msgid "Use link as"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:149
+msgid "Lightbox"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:158
+#: integrations/elementor/widgets/icon-list.php:169
+#: integrations/elementor/widgets/image-carousel.php:132
+#: integrations/elementor/widgets/reviews-carousel.php:127
+msgid "Items"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:167
+msgid "Grid Padding"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:170
+msgid "With Padding( Default )"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:171
+msgid "Without Padding"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:606
+#: integrations/elementor/widgets/reviews-carousel.php:714
+#: integrations/elementor/widgets/reviews-carousel.php:736
+msgid "7 - Item(s)"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:607
+#: integrations/elementor/widgets/reviews-carousel.php:715
+#: integrations/elementor/widgets/reviews-carousel.php:737
+msgid "8 - Item(s)"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:608
+#: integrations/elementor/widgets/reviews-carousel.php:716
+msgid "9 - Item(s)"
+msgstr ""
+
+#: integrations/elementor/widgets/gallery.php:609
+#: integrations/elementor/widgets/reviews-carousel.php:717
+msgid "10 - Item(s)"
+msgstr ""
+
+#: integrations/elementor/widgets/heading.php:25
+msgid "Heading"
+msgstr ""
+
+#: integrations/elementor/widgets/heading.php:53
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: integrations/elementor/widgets/icon-list.php:222
+msgid "List Item Gap"
+msgstr ""
+
+#: integrations/elementor/widgets/icon-list.php:233
+msgid "List Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/icon-list.php:253
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: integrations/elementor/widgets/icon-list.php:263
+msgid "Show Items Devider"
+msgstr ""
+
+#: integrations/elementor/widgets/icon-list.php:297
+msgid "Item Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/image-box.php:24
+#: integrations/elementor/widgets/image-box.php:40
+msgid "Image Box"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:30
+#: integrations/elementor/widgets/image-carousel.php:46
+msgid "Image Carousel"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:179
+#: integrations/elementor/widgets/reviews-carousel.php:663
+msgid "Section"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:187
+msgid "Show section Background"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:199
+#: integrations/elementor/widgets/reviews-carousel.php:674
+msgid "Section Gradien Color"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:211
+#: integrations/elementor/widgets/reviews-carousel.php:683
+msgid "Section Gradien Second Color"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:272
+msgid "Image on click image popup"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:276
+msgid "On click to show popup image or link"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:458
+msgid "Overlay Background Color"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:619
+#: integrations/elementor/widgets/reviews-carousel.php:783
+msgid "Carousel"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:627
+#: integrations/elementor/widgets/reviews-carousel.php:791
+msgid "Slides per page"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:634
+#: integrations/elementor/widgets/reviews-carousel.php:798
+msgid "5"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:635
+#: integrations/elementor/widgets/reviews-carousel.php:799
+msgid "6"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:636
+#: integrations/elementor/widgets/reviews-carousel.php:800
+msgid "7"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:637
+#: integrations/elementor/widgets/reviews-carousel.php:801
+msgid "8"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:638
+#: integrations/elementor/widgets/reviews-carousel.php:802
+msgid "9"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:639
+#: integrations/elementor/widgets/reviews-carousel.php:803
+msgid "10"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:660
+#: integrations/elementor/widgets/reviews-carousel.php:824
+msgid "Infinite Scroll"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:696
+#: integrations/elementor/widgets/reviews-carousel.php:860
+msgid "Autoplay time"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:709
+msgid "Center Mode"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:721
+msgid "Item Auto Width"
+msgstr ""
+
+#: integrations/elementor/widgets/image-carousel.php:733
+msgid "Remove Items Padding"
+msgstr ""
+
+#: integrations/elementor/widgets/image.php:47
+#: integrations/elementor/widgets/video.php:61
+msgid "Choose Image"
+msgstr ""
+
+#: integrations/elementor/widgets/image.php:61
+#: integrations/elementor/widgets/video.php:75
+msgid "Image Alternative Text"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:53
+msgid "Portfolio View"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:56
+msgid "Slider (Default)"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:57
+msgid "Grid"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:58
+msgid "Gallery Filter"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:164
+msgid "Portfolio Setttings"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:222
+msgid "Show Category"
+msgstr ""
+
+#: integrations/elementor/widgets/portfolio.php:275
+msgid "Remove items padding"
+msgstr ""
+
+#: integrations/elementor/widgets/posts.php:28
+msgid "Posts"
+msgstr ""
+
+#: integrations/elementor/widgets/posts.php:150
+msgid "Posts Setttings"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:25
+msgid "Pricing"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:48
+msgid "Pricing Box Style"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:155
+#: integrations/elementor/widgets/team-member.php:104
+msgid "Enter the title"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:169
+#: integrations/elementor/widgets/team-member.php:118
+msgid "Enter the description"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:194
+msgid "Icon alternative text"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:217
+#: integrations/elementor/widgets/pricing.php:921
+msgid "Content List"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:232
+msgid "Ex: 199"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:246
+msgid "Ex: $"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:259
+msgid "Ex: Per Month"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:272
+msgid "Ex: 99"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:285
+msgid "Ex: /mo"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:295
+msgid "Get Started"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:352
+msgid "Price Box"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:360
+msgid "Add Box Shadow"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:410
+#: integrations/elementor/widgets/reviews-carousel.php:149
+msgid "Background"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:454
+msgid "Icon Background Image"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:471
+msgid "Icon Background Image Size"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:908
+#: integrations/elementor/widgets/team-member.php:326
+msgid "Content Wrap Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:1081
+msgid "Price"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:1232
+msgid "Period"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:1495
+msgid "Corners Style"
+msgstr ""
+
+#: integrations/elementor/widgets/pricing.php:1677
+#: integrations/elementor/widgets/social-icons.php:353
+msgid "Section ID"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:30
+#: integrations/elementor/widgets/reviews-carousel.php:46
+msgid "Reviews Carousel"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:65
+#: integrations/elementor/widgets/reviews-carousel.php:201
+#: integrations/elementor/widgets/team-member.php:84
+#: integrations/elementor/widgets/team-member.php:339
+msgid "Name"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:68
+msgid "Enter your name"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:102
+msgid "Rating"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:139
+msgid "Style - 1 ( Default )"
+msgstr ""
+
+#: integrations/elementor/widgets/reviews-carousel.php:153
+msgid "Light Grey"
+msgstr ""
+
+#: integrations/elementor/widgets/social-icons.php:30
+msgid "Social Icons"
+msgstr ""
+
+#: integrations/elementor/widgets/social-icons.php:46
+#: integrations/elementor/widgets/social-icons.php:104
+#: integrations/elementor/widgets/social-icons.php:173
+#: integrations/elementor/widgets/team-member.php:181
+#: integrations/elementor/widgets/team-member.php:793
+msgid "Icons"
+msgstr ""
+
+#: integrations/elementor/widgets/social-icons.php:225
+#: integrations/elementor/widgets/social-icons.php:280
+#: integrations/elementor/widgets/team-member.php:845
+#: integrations/elementor/widgets/team-member.php:900
+msgid "Colored"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:25
+msgid "Team Member"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:51
+msgid "Style-1"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:52
+msgid "Style-2"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:90
+msgid "Enter the name"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:296
+msgid "Content Wrap"
+msgstr ""
+
+#: integrations/elementor/widgets/team-member.php:477
+msgid "Name Extra Classes"
+msgstr ""
+
+#: integrations/elementor/widgets/text.php:23
+msgid "Text"
+msgstr ""
+
+#: integrations/elementor/widgets/video.php:19
+#: integrations/elementor/widgets/video.php:35
+msgid "Video"
+msgstr ""
+
+#: integrations/elementor/widgets/video.php:42
+msgid "Url"
+msgstr ""
+
+#: integrations/elementor/widgets/video.php:51
+msgid "Enter your URL"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:54
+msgid "About"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:56
+msgid "Go Pro"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:69
+#: integrations/meta-box/inc/about/about.php:70
+msgid "Meta Box"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:85
+msgid "Welcome to Meta Box"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:86
+msgid "Dashboard"
+msgstr ""
+
+#: integrations/meta-box/inc/about/about.php:160
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary!"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:20
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:24
+#: integrations/meta-box/inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:36
+#: integrations/meta-box/inc/about/sections/extensions.php:48
+#: integrations/meta-box/inc/about/sections/extensions.php:60
+#: integrations/meta-box/inc/about/sections/extensions.php:72
+#: integrations/meta-box/inc/about/sections/extensions.php:84
+#: integrations/meta-box/inc/about/sections/extensions.php:96
+#: integrations/meta-box/inc/about/sections/extensions.php:108
+msgid "Learn More"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:44
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:68
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:80
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:92
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:104
+msgid ""
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/extensions.php:124
+msgid "View all extensions"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started-pro.php:2
+msgid ""
+"Please follow this video tutorial to get started with Meta Box and "
+"extensions:"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:13
+msgid ""
+"Online Generator is a free tool to help you create and set up custom fields "
+"using a simple, friendly user interface. With it, you can add fields, set "
+"options and generate needed code that's ready to copy and paste."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:21
+#: integrations/meta-box/inc/about/sections/tabs.php:12
+msgid "Extensions"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:22
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:24
+msgid "Meta Box Builder"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:24
+msgid "Build meta boxes and fields with UI."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:25
+msgid "Meta Box Group"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:25
+msgid "Organize fields into repeatable groups."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:26
+msgid "Meta Box Conditional Logic"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:26
+msgid "Control the visibility of fields."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:27
+msgid "MB Settings Page"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:27
+msgid "Create settings pages/Customizer options."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/products.php:12
+msgid "Our WordPress Products"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/products.php:15
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/products.php:16
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/products.php:17
+msgid "A super fast, lightweight and highly customizable WordPress theme"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/tabs.php:13
+#: integrations/meta-box/inc/about/sections/welcome.php:21
+msgid "Support"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/welcome.php:14
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/welcome.php:17
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/welcome.php:20
+msgid "Documentation"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/welcome.php:22
+msgid "Facebook Group"
+msgstr ""
+
+#: integrations/meta-box/inc/about/sections/welcome.php:23
+msgid "Youtube Channel"
+msgstr ""
+
+#: integrations/meta-box/inc/core.php:38
+msgid "Docs"
+msgstr ""
+
+#: integrations/meta-box/inc/field.php:348
+msgid "+ Add more"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/autocomplete.php:23
+#: integrations/meta-box/inc/fields/autocomplete.php:84
+#: integrations/meta-box/inc/fields/autocomplete.php:96
+#: integrations/meta-box/inc/fields/file.php:187
+msgid "Delete"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:75
+msgid "Background Image"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:89
+msgid "-- Repeat --"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:91
+msgid "No Repeat"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:92
+msgid "Repeat All"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:93
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:94
+msgid "Repeat Vertically"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:95
+#: integrations/meta-box/inc/fields/background.php:133
+#: integrations/meta-box/inc/fields/background.php:147
+msgid "Inherit"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:107
+msgid "-- Position --"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:109
+msgid "Top Left"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:110
+msgid "Top Center"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:111
+msgid "Top Right"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:112
+msgid "Center Left"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:113
+msgid "Center Center"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:114
+msgid "Center Right"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:115
+msgid "Bottom Left"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:116
+msgid "Bottom Center"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:117
+msgid "Bottom Right"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:129
+msgid "-- Attachment --"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:131
+msgid "Fixed"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:132
+msgid "Scroll"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:145
+msgid "-- Size --"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:148
+msgid "Cover"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/background.php:149
+msgid "Contain"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/button.php:34
+msgid "Click me"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file-input.php:53
+#: integrations/meta-box/inc/fields/select.php:92
+msgid "Select"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file-input.php:55
+#: integrations/meta-box/inc/fields/media.php:32
+msgid "Remove"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:67
+msgid "Error: Invalid file"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:80
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:107
+msgid "+ Add new file"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/file.php:188
+#: integrations/meta-box/inc/fields/media.php:33
+msgid "Edit"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/key-value.php:114
+msgid "Key"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/key-value.php:115
+msgid "Value"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/map.php:56
+#: integrations/meta-box/inc/fields/osm.php:28
+msgid "No results found"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:29
+msgid "+ Add Media"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:30
+msgid " file"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:31
+msgid " files"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:38
+msgid "Select Files"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:39
+msgid "or"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/media.php:40
+msgid "Drop files here to upload"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr ""
+
+#: integrations/meta-box/inc/fields/post.php:80
+msgid "Select a post"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/post.php:86
+#: integrations/meta-box/inc/fields/taxonomy.php:98
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/post.php:160
+#: integrations/meta-box/inc/fields/taxonomy.php:157
+#: integrations/meta-box/inc/fields/user.php:144
+msgid "(No title)"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/select.php:92
+msgid "All"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/switch.php:93
+msgid "On"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/switch.php:94
+msgid "Off"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/taxonomy.php:94
+msgid "Select a term"
+msgstr ""
+
+#: integrations/meta-box/inc/fields/user.php:84
+msgid "Select a user"
+msgstr ""
+
+#: integrations/meta-box/inc/loader.php:122
+msgid "Dismiss all Meta Box news"
+msgstr ""
+
+#: integrations/meta-box/inc/loader.php:123
+msgid "Are you sure to dismiss all Meta Box news?"
+msgstr ""
+
+#: integrations/meta-box/inc/meta-box.php:342
+msgid "Meta Box Title"
+msgstr ""
+
+#: integrations/meta-box/inc/update/checker.php:100
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:114
+#: integrations/meta-box/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:144
+#: integrations/meta-box/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:171
+msgid "Activate License"
+msgstr ""
+
+#: integrations/meta-box/inc/update/notification.php:171
+msgid "Update License"
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:37
+#: integrations/meta-box/inc/update/settings.php:52
+msgid "Meta Box License"
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:37
+msgid "License"
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:53
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:58
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:70
+msgid "License Key"
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:74
+#: integrations/meta-box/inc/update/settings.php:75
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:76
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:77
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:90
+msgid "Save Changes"
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:120
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:122
+msgid "Your license is activated."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:125
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+
+#: integrations/meta-box/inc/update/settings.php:131
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
+
+#: integrations/meta-box/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: powernodewt-core.php:110 powernodewt-core.php:117
+msgid "Cheatin&#8217; huh?"
+msgstr ""
