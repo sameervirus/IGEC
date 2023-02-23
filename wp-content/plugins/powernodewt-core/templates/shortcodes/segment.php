@@ -8,7 +8,7 @@
 	if( !empty( $query ) ) {
 		while ( $query->have_posts() ) : $query->the_post();
 
-			get_template_part( 'template-parts/portfolio-loop/layout', get_post_format() );
+			get_template_part( 'template-parts/segment-loop/layout', get_post_format() );
 
 		endwhile;
 		

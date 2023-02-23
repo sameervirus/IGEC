@@ -36,8 +36,8 @@ if ( has_post_thumbnail() ) {
 		$content_args['class'][] = 'col-lg-4';	
 	}
 }
-$post_type = get_post_type();
-if( $post_style == 'box' || $post_type == 'segment' ) {
+
+if( $post_style == 'box' ) {
 	$sub_atts['class'][] = 'hover-overlay';
 	$content_args['class'] = 'project-meta white-color';
 } else {
@@ -48,7 +48,7 @@ if( $post_style == 'box' || $post_type == 'segment' ) {
 <div <?php echo powernodewt_portfolio_loop_post_atts(); ?>>
 <?php
 
-if( ($post_style == 'box' && !empty( $sections )) || $post_type == 'segment') { ?>
+if( ($post_style == 'box' && !empty( $sections ))) { ?>
 	<div class="gallery-image">
 		<div <?php echo powernodewt_stringify_atts( $sub_atts ); ?>>
 		<?php if ( in_array( $view_type, array( 'list', 'modern' ) ) ) echo '<div class="row entry-post-inner d-flex align-items-center">'; ?>

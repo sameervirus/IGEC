@@ -128,8 +128,20 @@ body {
   margin-right: -10px;
 }
 
-.slider-item .gallery-image .attachment-large {
-  height: 380px;
+.item-entry .gallery-image .attachment-large {
+  height: 350px;
   max-width: unset;
   width: auto;
+}
+
+.segment-grid .entry-post .entry-content {
+  color: #000;
+}
+
+.segment-grid .entry-post .entry-read-more {
+  padding-bottom: 10px;
+}
+
+.item-entry .segment-post {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
