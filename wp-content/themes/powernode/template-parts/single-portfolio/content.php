@@ -12,14 +12,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 $view_type = powernodewt_get_loop_prop( 'powernode_blog_loop_view_type' );
 $content_type = apply_filters( 'powernode_blog_loop_post_content', powernodewt_get_loop_prop( 'powernode_blog_loop_post_content' ) );
-if ( is_singular( 'post' ) && !in_array( $view_type, array('slider', 'grid') ) ) {
+// if ( is_singular( 'post' ) && !in_array( $view_type, array('slider', 'grid') ) ) {
+if ( is_singular( 'post' ) ) {
 	$content_type = 'full';
 }
 ?>
 <div class="entry-content">
 	<?php
 	
-	if ( $content_type == 'excerpt' ) {
+	if ( $content_type == 'excerpt ' ) {
 		
 		if ( has_excerpt() && ! empty( $post->post_excerpt ) ) {
 			$content = get_the_excerpt();

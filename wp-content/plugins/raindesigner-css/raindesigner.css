@@ -145,3 +145,16 @@ body {
 .item-entry .segment-post {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
+.elementor-column-gap-default
+  > .elementor-column.p-0
+  > .elementor-element-populated {
+  padding: 0;
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.segment-template .navbar-dark.tra-menu .wsmainfull,
+.portfolio-template .navbar-dark.tra-menu .wsmainfull {
+  border-bottom: 1px solid #eee;
+  background-color: white !important;
+}
